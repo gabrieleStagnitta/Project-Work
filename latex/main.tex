@@ -1,0 +1,62 @@
+\documentclass[12pt,a4paper,oneside]{book}
+
+% --- Pacchetti Fondamentali ---
+\usepackage[utf8]{inputenc} % Codifica caratteri
+\usepackage[italian]{babel} % Lingua italiana
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}       % Per inserire immagini
+\usepackage{geometry}       % Per i margini
+\usepackage{setspace}       % Per l'interlinea
+\usepackage{hyperref}       % Per i link cliccabili
+\usepackage{cite}           % Per la bibliografia
+
+
+
+
+\begin{document}
+
+% --- 1. FRONTESPIZIO ---
+\input{altro/frontespizio}
+
+% --- 2. PARTE PRELIMINARE (Numeri romani: i, ii, iii...) ---
+\frontmatter
+\tableofcontents
+\listoffigures
+
+% --- 3. IL CORPO DELLA TESI (Numeri arabi: 1, 2, 3...) ---
+\mainmatter
+
+% Qui iniziano i capitoli veri e propri. 
+\setcounter{chapter}{-1}
+\chapter[Parte Zero - Introduzione]{Introduzione}
+\section[Descrizione situazione - Triage automatico dei ticket con Machine Learning]{Descrizione situazione - Problema del Triage \\ automatico dei ticket con Machine Learning}
+\input{capitolo_zero/introduzione}
+\chapter[Parte Prima - Descrizione del processo]{Descrizione del processo} 
+\section{Utilizzo delle conoscenze e abilità derivate dal percorso di studio}
+\input{capitolo_uno/1_utilizzo_delle_conoscenze} 
+\section{Fasi di lavoro e relativi tempi di implementazione}
+\input{capitolo_uno/2_fasi_di_lavoro}
+\section{Risorse e strumenti impiegati}
+\input{capitolo_uno/3_risorse_e_strumenti}  
+
+\chapter[Parte Seconda - Predisposizione dell'elaborato]{Predisposizione dell'elaborato}
+\section{Obiettivi del progetto}
+\input{capitolo_due/1_obiettivi}  
+\section{Contestualizzazione}
+\input{capitolo_due/2_contestualizzazione} 
+\section{Descrizione dei principali aspetti progettuali}  
+\input{capitolo_due/3_descrizione} 
+\section{Campi di applicazione}
+\input{capitolo_due/4_campi} 
+\section{Valutazione dei risultati}
+\input{capitolo_due/5_valutazione} 
+\chapter{Bibliografia}  
+\chapter*{Ringraziamenti}
+% --- 4. CONCLUSIONI E BIBLIOGRAFIA ---
+\backmatter
+
+
+\bibliographystyle{plain}
+\bibliography{bibliografia}
+
+\end{document}
