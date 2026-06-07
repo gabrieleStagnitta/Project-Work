@@ -1,0 +1,44 @@
+{
+  "Amministrazione": {
+    "verbi": [
+      "sollecitare", "verificare", "restituire", "rettificare", "inviare", "ricevere", "assistere",
+      "contabilizzare", "approvare", "stornare", "sollecitare", "archiviare", "sospendere"
+    ],
+    "sostantivi": [
+      "la fattura", "il pagamento", "la nota di credito", "lo storno", "il rimborso",
+      "l'estratto conto", "la distinta di bonifico", "il sollecito di pagamento", "il giustificativo di spesa", "la nota spese"
+    ],
+    "dettagli": [
+      "del mese scorso", "per il servizio cloud", "con importo errato", "non ancora pervenuto",
+      "relativo al trimestre in corso", "mancante della firma digitale", "da inoltrare al commercialista", "per duplicazione interna"
+    ]
+  },
+  "Tecnico": {
+    "verbi": [
+      "riscontrare", "segnalare", "risolvere", "riavviare", "ottimizzare",
+      "configurare", "ripristinare", "monitorare", "aggiornare", "testare", "isolare"
+    ],
+    "sostantivi": [
+      "un errore 500", "un bug bloccante", "il crash dell'app", "il server offline", "il database lento",
+      "un leak di memoria", "il certificato SSL scaduto", "il backup notturno", "i permessi di accesso", "il picco di traffico anomalo"
+    ],
+    "dettagli": [
+      "dopo l'ultimo aggiornamento", "sulla macchina di produzione", "durante il login", "in fase di caricamento",
+      "sull'ambiente di staging", "che impatta tutti gli utenti", "da mobile e da desktop", "subito dopo il deploy di stamattina"
+    ]
+  },
+  "Commerciale": {
+    "verbi": [
+      "richiedere", "valutare", "attivare", "rinnovare", "modificare",
+      "negoziare", "disdire", "proporre", "estendere", "sbloccare"
+    ],
+    "sostantivi": [
+      "un preventivo", "lo sconto commerciale", "il piano di abbonamento", "la licenza aggiuntiva", "le condizioni contrattuali",
+      "la proposta di partnership", "il listino prezzi aggiornato", "la penale di recesso", "un account demo", "i dati del nuovo lead"
+    ],
+    "dettagli": [
+      "per la nuova filiale", "in vista della scadenza", "per il pacchetto Enterprise", "per un potenziale cliente",
+      "con opzione multilicenza", "valido solo fino a fine mese", "per il mercato estero", "con fatturazione annuale anticipata"
+    ]
+  }
+}

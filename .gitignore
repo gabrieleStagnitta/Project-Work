@@ -1,0 +1,12 @@
+# Ignora l'ambiente virtuale
+.venv/
+venv/
+ENV/
+
+# Ignora la cache di Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignora le cartelle di checkpoint di Jupyter Notebook
+.ipynb_checkpoints/

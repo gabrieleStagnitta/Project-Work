@@ -1,0 +1,24 @@
+lista dei nomi e dei cognomi presi da: https://github.com/Max1234-Ita/Liste
+
+
+
+# Lista di oggetti finti per i ticket, tanto per rendere la simulazione reale
+oggetti_ticket = [
+    "Problema accesso account", "Richiesta rimborso fattura", 
+    "Errore caricamento pagina", "Informazioni commerciali", 
+    "Reset password non funzionante", "Segnalazione bug app"
+]
+
+print(f"--- SIMULAZIONE TICKET MANAGER ({total_ticket_da_creare} ticket da {numero_utenti_unici} utenti) ---\n")
+print(f"{'TICKET ID':<11} | {'UTENTE':<25} | {'EMAIL':<35} | {'OGGETTO'}")
+print("-" * 95)
+
+for i in range(1, total_ticket_da_creare + 1):
+    # Peschiamo un utente a caso dal nostro pool di 125. 
+    # Molti utenti verranno pescati inevitabilmente più di una volta!
+    utente_estratto = random.choice(pool_utenti)
+    
+    ticket_id = f"TK-{1000 + i}"
+    oggetto = random.choice(oggetti_ticket)
+    
+    print(f"{ticket_id:<11} | {utente_estratto['Anagrafica']:<25} | {utente_estratto['Email']:<35} | {oggetto}")
