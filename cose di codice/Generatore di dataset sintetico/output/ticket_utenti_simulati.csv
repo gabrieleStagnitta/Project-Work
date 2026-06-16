@@ -1,0 +1,1279 @@
+﻿id,user_name,user_email,title,body,category,priority
+TKT-0001,Gaetano Alberioli,gaetano.alberioli87@gmail.com,Richiesta info la nota spese per il servizio cloud,"Buongiorno,
+con la presente si richiede cortesemente di approvare la nota spese per il servizio cloud.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0002,Antonella Frasanchin,antonella.frasanchin73@gmail.com,AIUTO - problema con il sollecito di pagamento,"Salve, si richiede di sollecitare il sollecito di pagamento del mese scorso. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0003,Ugo Paltenghi,ugo.paltenghi75@gmail.com,Segnalazione i dati del nuovo lead,"Purtroppo si è reso necessario richiedere i dati del nuovo lead per la nuova filiale.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0004,Sofia Enea,s.enea93@hotmail.com,Negoziare le condizioni contrattuali,"ciao, bisogna negoziare le condizioni contrattuali valido solo fino a fine mese entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0005,Foscarina Lorenti,foscarina.lorenti@gmail.com,URGENTE: Approvare il sollecito di pagamento,"Purtroppo si è reso necessario approvare il sollecito di pagamento mancante della firma digitale.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0006,Raffaele Pecorari,raffaele.pecorari92@gmail.com,Isolare il backup notturno,"Salve, si richiede di isolare il backup notturno in fase di caricamento. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0007,Santino Pereira,santino.pereira85@gmail.com,la penale di recesso - con fatturazione annuale anticipata,"Ciao, per favore dovremmo negoziare la penale di recesso con fatturazione annuale anticipata il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0008,Nicoletta Ponchione,nicoletta.ponchione98@gmail.com,Valutare il piano di abbonamento,"Purtroppo si è reso necessario valutare il piano di abbonamento per il mercato estero.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0009,Rosa Kepa,rosa.kepa86@hotmail.com,Segnalazione il picco di traffico anomalo,"Salve, si richiede di ripristinare il picco di traffico anomalo durante il login. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0010,Diana Cortese,diana.cortese97@hotmail.com,Segnalazione la licenza aggiuntiva,"ciao, bisogna proporre la licenza aggiuntiva per la nuova filiale entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0011,Maurizia Mazzotta,maurizia.mazzotta01@outlook.it,Segnalazione un leak di memoria,"Purtroppo si è reso necessario configurare un leak di memoria sulla macchina di produzione.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0012,Pierpaolo Miulan,pierpaolo.miulan@outlook.it,Negoziare lo sconto commerciale,"Purtroppo si è reso necessario negoziare lo sconto commerciale per il pacchetto Enterprise.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0013,Irene Agizza,i.agizza77@outlook.it,Richiesta info un leak di memoria subito dopo il deploy di stamattina,"Buongiorno,
+con la presente si richiede cortesemente di riscontrare un leak di memoria subito dopo il deploy di stamattina.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0014,Fabiana Turoldo,f.turoldo@hotmail.com,Negoziare il listino prezzi aggiornato,"Purtroppo si è reso necessario negoziare il listino prezzi aggiornato per un potenziale cliente.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0015,Caterina Aiani,caterina.aiani98@gmail.com,Ripristinare il database lento,"Ciao, per favore dovremmo ripristinare il database lento dopo l'ultimo aggiornamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0016,Enrico Furiosi,enrico.furiosi03@libero.it,URGENTE: Sbloccare la licenza aggiuntiva,"ciao, bisogna sbloccare la licenza aggiuntiva per il mercato estero entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Alta
+TKT-0017,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,Richiesta info la distinta di bonifico per duplicazione interna,"Buongiorno,
+con la presente si richiede cortesemente di assistere la distinta di bonifico per duplicazione interna.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0018,Foscarina Lorenti,foscarina.lorenti@gmail.com,Segnalazione un leak di memoria,"Ciao, per favore dovremmo isolare un leak di memoria dopo l'ultimo aggiornamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0019,Samuele Kristian,samuelekristian72@gmail.com,Richiesta info lo storno del mese scorso,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di sospendere lo storno del mese scorso.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Alta
+TKT-0020,Franca Iavazzo,franca.iavazzo@gmail.com,Richiesta supporto - categoria: Commerciale,"Salve, si richiede di negoziare le condizioni contrattuali per la nuova filiale. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0021,Caterina Aiani,caterina.aiani98@gmail.com,Segnalazione il certificato SSL scaduto,"Salve, si richiede di isolare il certificato SSL scaduto dopo l'ultimo aggiornamento. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0022,Beatrice Andolfi,b.andolfi97@gmail.com,Valutare i dati del nuovo lead,"Buongiorno,
+con la presente si richiede cortesemente di valutare i dati del nuovo lead per la nuova filiale.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0023,Fabio Vanessa,fabio.vanessa03@gmail.com,Segnalazione le condizioni contrattuali,"Ciao, per favore dovremmo attivare le condizioni contrattuali per il mercato estero il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0024,Aurora Geiger,aurorageiger78@gmail.com,Richiesta info il certificato SSL scaduto da mobile e da desktop,"Ciao, per favore dovremmo monitorare il certificato SSL scaduto da mobile e da desktop il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0025,Greta Franzosi,g.franzosi@gmail.com,Richiesta info lo sconto commerciale in vista della scadenza,"Salve, si richiede di modificare lo sconto commerciale in vista della scadenza. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0026,Saverio Massaroni,saverio.massaroni73@gmail.com,URGENTE: Isolare il backup notturno,"Ciao, per favore dovremmo isolare il backup notturno sulla macchina di produzione il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0027,Walter Crociat,w.crociat@outlook.it,il rimborso - del mese scorso,"Buongiorno,
+con la presente si richiede cortesemente di approvare il rimborso del mese scorso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0028,Fulvia Memi,fulvia.memi@gmail.com,AIUTO - problema con un preventivo,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di proporre un preventivo per il mercato estero.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Media
+TKT-0029,Pierpaolo Laurino,p.laurino@yahoo.com,Richiesta supporto - categoria: Tecnico,"Ciao, per favore dovremmo riscontrare il certificato SSL scaduto dopo l'ultimo aggiornamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0030,Miranda Mongiatti,miranda.mongiatti82@outlook.it,il rimborso - non ancora pervenuto,"Buongiorno,
+con la presente si richiede cortesemente di assistere il rimborso non ancora pervenuto.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0031,Giancarlo Antoniazzi,g.antoniazzi@outlook.it,Segnalazione il rimborso,"Ciao, per favore dovremmo ricevere il rimborso da inoltrare al commercialista il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0032,Achille Seigambe,achille.seigambe06@outlook.it,Richiedere la proposta di partnership,"sono Achille Seigambe, ho un problema critico, ne possiamo parlare il prima possibile?",Commerciale,Media
+TKT-0033,Achille Seigambe,achille.seigambe06@outlook.it,Approvare il sollecito di pagamento,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di approvare il sollecito di pagamento da inoltrare al commercialista.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Media
+TKT-0034,Giulio Orifici,giulio.orifici05@gmail.com,Segnalazione un leak di memoria,"Potete aggiornare un leak di memoria da mobile e da desktop?
+Grazie, saluti.",Tecnico,Alta
+TKT-0035,Carola Ripoli,carola.ripoli@hotmail.com,Segnalazione il certificato SSL scaduto,"Buongiorno,
+con la presente si richiede cortesemente di monitorare il certificato SSL scaduto durante il login.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0036,Carlo Guindano,c.guindano@libero.it,Segnalazione il crash dell'app,"Salve, si richiede di ottimizzare il crash dell'app subito dopo il deploy di stamattina. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0037,Greta Franzosi,g.franzosi@gmail.com,URGENTE: Proporre la proposta di partnership,"Buongiorno,
+con la presente si richiede cortesemente di proporre la proposta di partnership per il mercato estero.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0038,Rino Sonn,r.sonn71@libero.it,Richiesta info il rimborso per duplicazione interna,"Buongiorno,
+con la presente si richiede cortesemente di inviare il rimborso per duplicazione interna.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0039,Antonella Frasanchin,antonella.frasanchin73@gmail.com,URGENTE: Stornare il giustificativo di spesa,"ciao, bisogna stornare il giustificativo di spesa con importo errato entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Media
+TKT-0040,Samuele Niso,samuele.niso06@gmail.com,URGENTE: Stornare il pagamento,"Buongiorno,
+con la presente si richiede cortesemente di stornare il pagamento non ancora pervenuto.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0041,Valter Smaltino,valtersmaltino84@gmail.com,Aggiornare il database lento,"Ciao, per favore dovremmo aggiornare il database lento che impatta tutti gli utenti il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0042,Nicoletta Ponchione,nicoletta.ponchione98@gmail.com,URGENTE: Isolare il certificato SSL scaduto,"Potete isolare il certificato SSL scaduto durante il login?
+Grazie, saluti.",Tecnico,Alta
+TKT-0043,Marcelo Vinanzio,marcelovinanzio85@gmail.com,Richiesta supporto - categoria: Tecnico,"Purtroppo si è reso necessario monitorare il picco di traffico anomalo durante il login.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0044,Donatella Curmano,curmano.donatella@gmail.com,Richiesta supporto - categoria: Commerciale,"Buongiorno,
+con la presente si richiede cortesemente di estendere i dati del nuovo lead valido solo fino a fine mese.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0045,Franca Iavazzo,franca.iavazzo@gmail.com,URGENTE: Proporre un preventivo,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di proporre un preventivo con opzione multilicenza.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0046,Michelangelo Ciccuto,michelangelo.ciccuto82@gmail.com,URGENTE: Configurare un errore 500,"Ciao, per favore dovremmo configurare un errore 500 in fase di caricamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0047,Piera Cantagalli,piera.cantagalli73@gmail.com,Negoziare un account demo,negoziare un account demo per la nuova filiale.,Commerciale,Bassa
+TKT-0048,Gaetano Cantagalli,gaetano_cantagalli@yahoo.com,URGENTE: Ripristinare un bug bloccante,"Ciao, per favore dovremmo ripristinare un bug bloccante da mobile e da desktop il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0049,Michelangelo Ciccuto,michelangelo.ciccuto82@gmail.com,Rinnovare lo sconto commerciale,"ciao, bisogna rinnovare lo sconto commerciale con fatturazione annuale anticipata entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0050,Oclerio Guarik,oclerioguarik83@gmail.com,AIUTO - problema con lo sconto commerciale,"Salve, si richiede di proporre lo sconto commerciale per il pacchetto Enterprise. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0051,Remo Damaschini,remo.damaschini79@gmail.com,URGENTE: Contabilizzare l'estratto conto,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di contabilizzare l'estratto conto mancante della firma digitale.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Media
+TKT-0052,Gloria Pagliariccia,g.pagliariccia@gmail.com,URGENTE: Modificare un preventivo,"Buongiorno,
+con la presente si richiede cortesemente di modificare un preventivo valido solo fino a fine mese.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0053,Gianmaria D'Odorico Comuzzi,g.dodoricocomuzzi97@yahoo.com,Richiesta info l'estratto conto per il servizio cloud,"Ciao, per favore dovremmo sollecitare l'estratto conto per il servizio cloud il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0054,Samuele Niso,samuele.niso06@gmail.com,AIUTO - problema con l'estratto conto,"Salve, si richiede di verificare l'estratto conto mancante della firma digitale. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0055,Marianna Ruggera,marianna_ruggera@hotmail.com,Sospendere la nota di credito,"Ciao, per favore dovremmo sospendere la nota di credito da inoltrare al commercialista il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Alta
+TKT-0056,Pierpaolo Miulan,pierpaolo.miulan@outlook.it,URGENTE: Rinnovare la licenza aggiuntiva,[NOTIFICA AUTOMATICA]: Rilevata necessità di rinnovare la licenza aggiuntiva valido solo fino a fine mese. Si prega di non rispondere a questa email.,Commerciale,Alta
+TKT-0057,Franca Iavazzo,franca.iavazzo@gmail.com,URGENTE: Assistere il pagamento,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di assistere il pagamento per duplicazione interna.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Alta
+TKT-0058,Remo Simoniti,simoniti.remo@gmail.com,Testare un errore 500,"Per curiosità stavo spulciando un errore 500, ho scoperto che testare un errore 500 subito dopo il deploy di stamattina, e questo è un problema!",Tecnico,Media
+TKT-0059,Ilaria Nebulosi,nebulosi.ilaria@gmail.com,Segnalazione il picco di traffico anomalo,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di configurare il picco di traffico anomalo sulla macchina di produzione.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0060,Alessandra Scanferla,a.scanferla@gmail.com,Segnalare il server offline,"Ciao, per favore dovremmo segnalare il server offline da mobile e da desktop il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0061,Valter Smaltino,valtersmaltino84@gmail.com,Negoziare il listino prezzi aggiornato,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di negoziare il listino prezzi aggiornato per il mercato estero.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0062,Lucrezia Di Segni,l.disegni82@gmail.com,Valutare la licenza aggiuntiva,"Buongiorno,
+con la presente si richiede cortesemente di valutare la licenza aggiuntiva per un potenziale cliente.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0063,Marcelo Vinanzio,marcelovinanzio85@gmail.com,URGENTE: Aggiornare il database lento,"sono Marcelo Vinanzio, ho un problema critico, ne possiamo parlare il prima possibile?",Tecnico,Media
+TKT-0064,Caterina La Montagna,caterina.lamontagna@outlook.it,Richiesta supporto - categoria: Commerciale,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di proporre la penale di recesso valido solo fino a fine mese.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0065,Ilaria Nebulosi,nebulosi.ilaria@gmail.com,Estendere la penale di recesso,estendere la penale di recesso per la nuova filiale.,Commerciale,Alta
+TKT-0066,Donatella Curmano,curmano.donatella@gmail.com,URGENTE: Modificare la penale di recesso,"Buongiorno,
+con la presente si richiede cortesemente di modificare la penale di recesso con opzione multilicenza.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0067,Michelangelo Ciccuto,michelangelo.ciccuto82@gmail.com,Richiesta info il certificato SSL scaduto da mobile e da desktop,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di riscontrare il certificato SSL scaduto da mobile e da desktop.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0068,Ugo Paltenghi,ugo.paltenghi75@gmail.com,la licenza aggiuntiva - per la nuova filiale,"Salve, si richiede di richiedere la licenza aggiuntiva per la nuova filiale. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0069,Franca Iavazzo,franca.iavazzo@gmail.com,il pagamento - da inoltrare al commercialista,"Purtroppo si è reso necessario approvare il pagamento da inoltrare al commercialista.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Bassa
+TKT-0070,Giacomo Chiaradia,g.chiaradia@gmail.com,URGENTE: Richiedere lo sconto commerciale,"Ciao, per favore dovremmo richiedere lo sconto commerciale con fatturazione annuale anticipata il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0071,Piera Cantagalli,piera.cantagalli73@gmail.com,Sbloccare lo sconto commerciale,"Buongiorno,
+con la presente si richiede cortesemente di sbloccare lo sconto commerciale per il pacchetto Enterprise.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0072,Rosanna Pilatti,pilatti.rosanna@libero.it,URGENTE: Contabilizzare la nota spese,"Purtroppo si è reso necessario contabilizzare la nota spese non ancora pervenuto.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Alta
+TKT-0073,Aurora Geiger,aurorageiger78@gmail.com,AIUTO - problema con il certificato SSL scaduto,"Ciao, per favore dovremmo risolvere il certificato SSL scaduto da mobile e da desktop il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0074,Ilaria Nebulosi,nebulosi.ilaria@gmail.com,Segnalazione la fattura,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di approvare la fattura da inoltrare al commercialista.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Bassa
+TKT-0075,Francesco Pagnotti,francesco_pagnotti@gmail.com,URGENTE: Sbloccare le condizioni contrattuali,"Potete sbloccare le condizioni contrattuali con fatturazione annuale anticipata?
+Grazie, saluti.",Commerciale,Alta
+TKT-0076,Massimo Di Varmo,massimo.divarmo72@hotmail.com,URGENTE: Inviare il rimborso,[NOTIFICA AUTOMATICA]: Rilevata necessità di inviare il rimborso relativo al trimestre in corso. Si prega di non rispondere a questa email.,Amministrazione,Alta
+TKT-0077,Leone Vignati,leone.vignati87@libero.it,URGENTE: Rettificare l'estratto conto,"Ciao, per favore dovremmo rettificare l'estratto conto con importo errato il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0078,Claudio Mozzoni,c.mozzoni88@gmail.com,Segnalazione il listino prezzi aggiornato,"Salve, si richiede di rinnovare il listino prezzi aggiornato con fatturazione annuale anticipata. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0079,Francesca Andreose,francesca.andreose@gmail.com,Richiesta info un bug bloccante subito dopo il deploy di stamattina,"Potete riscontrare un bug bloccante subito dopo il deploy di stamattina?
+Grazie, saluti.",Tecnico,Media
+TKT-0080,Fabio Vacchin,f.vacchin@libero.it,Inviare la distinta di bonifico,"Buongiorno,
+con la presente si richiede cortesemente di inviare la distinta di bonifico relativo al trimestre in corso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0081,Mariastella Zironi,mariastella.zironi@outlook.it,Segnalazione la nota di credito,"sono Mariastella Zironi, ho un problema critico, ne possiamo parlare il prima possibile?",Amministrazione,Media
+TKT-0082,Antonia Saccotelli,saccotelli.antonia@gmail.com,Ticket Approvare il sollecito di pagamento,"Buongiorno,
+con la presente si richiede cortesemente di approvare il sollecito di pagamento del mese scorso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0083,Carlo Guindano,c.guindano@libero.it,Approvare lo storno,"ciao, bisogna approvare lo storno con importo errato entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Media
+TKT-0084,Angelo Giaccio,angelo.giaccio84@gmail.com,Richiesta info i permessi di accesso sull'ambiente di staging,"Buongiorno,
+con la presente si richiede cortesemente di configurare i permessi di accesso sull'ambiente di staging.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0085,Piero Severino,p.severino83@gmail.com,URGENTE: Sollecitare l'estratto conto,"Buongiorno,
+con la presente si richiede cortesemente di sollecitare l'estratto conto relativo al trimestre in corso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0086,Fabio Vanessa,fabio.vanessa03@gmail.com,URGENTE: Negoziare un account demo,"Buongiorno,
+con la presente si richiede cortesemente di negoziare un account demo per il pacchetto Enterprise.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0087,Mariastella Zironi,mariastella.zironi@outlook.it,Ticket Aggiornare i permessi di accesso,"ciao, bisogna aggiornare i permessi di accesso da mobile e da desktop entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Bassa
+TKT-0088,Stefania Alarico,stefania_alarico@gmail.com,URGENTE: Assistere l'estratto conto,"Ciao, per favore dovremmo assistere l'estratto conto non ancora pervenuto il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Alta
+TKT-0089,Romano Lo Basso,lobasso.romano@gmail.com,Richiesta info il sollecito di pagamento per duplicazione interna,"Purtroppo si è reso necessario sollecitare il sollecito di pagamento per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0090,Fabio Vanessa,fabio.vanessa03@gmail.com,Segnalazione l'estratto conto,[NOTIFICA AUTOMATICA]: Rilevata necessità di archiviare l'estratto conto con importo errato. Si prega di non rispondere a questa email.,Amministrazione,Media
+TKT-0091,Nicoletta Sarachino,nicoletta.sarachino99@outlook.it,Riscontrare il database lento,"Salve, si richiede di riscontrare il database lento sulla macchina di produzione. Restiamo in attesa di un riscontro urgente.",Tecnico,Media
+TKT-0092,Antonia Saccotelli,saccotelli.antonia@gmail.com,Richiesta supporto - categoria: Tecnico,"ciao, bisogna ottimizzare un bug bloccante da mobile e da desktop entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Media
+TKT-0093,Claudio Mozzoni,c.mozzoni88@gmail.com,i permessi di accesso - sull'ambiente di staging,"Ciao, per favore dovremmo ottimizzare i permessi di accesso sull'ambiente di staging il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Bassa
+TKT-0094,Silvia Rabello,silvia.rabello@gmail.com,Richiesta supporto - categoria: Amministrazione,"Potete restituire la fattura da inoltrare al commercialista?
+Grazie, saluti.",Amministrazione,Bassa
+TKT-0095,Ilaria Nebulosi,nebulosi.ilaria@gmail.com,Rinnovare la proposta di partnership,"Buongiorno,
+con la presente si richiede cortesemente di rinnovare la proposta di partnership per il pacchetto Enterprise.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0096,Marco Guadenzi,marco.guadenzi71@gmail.com,Testare un errore 500,"Buongiorno,
+con la presente si richiede cortesemente di testare un errore 500 che impatta tutti gli utenti.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Media
+TKT-0097,Dolores Cagli,dolores.cagli95@gmail.com,Richiesta info un leak di memoria in fase di caricamento,"Purtroppo si è reso necessario monitorare un leak di memoria in fase di caricamento.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0098,Aurora Geiger,aurorageiger78@gmail.com,il sollecito di pagamento - per il servizio cloud,[NOTIFICA AUTOMATICA]: Rilevata necessità di sollecitare il sollecito di pagamento per il servizio cloud. Si prega di non rispondere a questa email.,Amministrazione,Media
+TKT-0099,Giacomo Briozzo,g.briozzo@hotmail.com,Segnalazione un leak di memoria,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di testare un leak di memoria in fase di caricamento.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0100,Renato Perilongo,renato.perilongo93@gmail.com,Richiesta supporto - categoria: Tecnico,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di risolvere un leak di memoria sulla macchina di produzione.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0101,Fabio Vanessa,fabio.vanessa03@gmail.com,URGENTE: Attivare il listino prezzi aggiornato,"Purtroppo si è reso necessario attivare il listino prezzi aggiornato in vista della scadenza.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Alta
+TKT-0102,Giovanni Vesprini,giovanni.vesprini@gmail.com,URGENTE: Testare il backup notturno,"ciao, bisogna testare il backup notturno che impatta tutti gli utenti entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0103,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,URGENTE: Risolvere un errore 500,"Ciao, per favore dovremmo risolvere un errore 500 in fase di caricamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0104,Grazia Li Muli,grazia.limuli@gmail.com,Ticket Richiedere i dati del nuovo lead,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di richiedere i dati del nuovo lead in vista della scadenza.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0105,Fulvia Memi,fulvia.memi@gmail.com,URGENTE: Configurare un leak di memoria,"Ciao, per favore dovremmo configurare un leak di memoria durante il login il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0106,Gianmaria D'Odorico Comuzzi,g.dodoricocomuzzi97@yahoo.com,Ticket Archiviare il rimborso,"ho un problema, quando posso chiamarvi?",Amministrazione,Media
+TKT-0107,Pamela De Rica,derica.pamela@gmail.com,AIUTO - problema con i dati del nuovo lead,"Ciao, per favore dovremmo proporre i dati del nuovo lead per un potenziale cliente il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Media
+TKT-0108,Carola Ugatini,carola.ugatini@gmail.com,Valutare le condizioni contrattuali,"Buongiorno,
+con la presente si richiede cortesemente di valutare le condizioni contrattuali valido solo fino a fine mese.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0109,Carlo Guindano,c.guindano@libero.it,Rinnovare la proposta di partnership,"Ciao, per favore dovremmo rinnovare la proposta di partnership valido solo fino a fine mese il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0110,Ilaria Nebulosi,nebulosi.ilaria@gmail.com,URGENTE: Rinnovare lo sconto commerciale,"Ciao, per favore dovremmo rinnovare lo sconto commerciale per il pacchetto Enterprise il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0111,Greta Franzosi,g.franzosi@gmail.com,Segnalazione i dati del nuovo lead,"Ciao, per favore dovremmo negoziare i dati del nuovo lead valido solo fino a fine mese il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0112,Diana Cinardi,diana.cinardi@hotmail.com,la distinta di bonifico - per il servizio cloud,"Salve, si richiede di sospendere la distinta di bonifico per il servizio cloud. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0113,Giulio Orifici,giulio.orifici05@gmail.com,Ticket Disdire la licenza aggiuntiva,"Potete disdire la licenza aggiuntiva per un potenziale cliente?
+Grazie, saluti.",Commerciale,Media
+TKT-0114,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,Ticket Approvare il pagamento,"Potete approvare il pagamento per duplicazione interna?
+Grazie, saluti.",Amministrazione,Bassa
+TKT-0115,Marco Guadenzi,marco.guadenzi71@gmail.com,URGENTE: Modificare la penale di recesso,[NOTIFICA AUTOMATICA]: Rilevata necessità di modificare la penale di recesso valido solo fino a fine mese. Si prega di non rispondere a questa email.,Commerciale,Alta
+TKT-0116,Rosanna Pilatti,pilatti.rosanna@libero.it,Monitorare un bug bloccante,"ciao, bisogna monitorare un bug bloccante durante il login entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Media
+TKT-0117,Raffaele Pecorari,raffaele.pecorari92@gmail.com,Richiesta supporto - categoria: Tecnico,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di aggiornare il crash dell'app durante il login.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0118,Antonella Frasanchin,antonella.frasanchin73@gmail.com,URGENTE: Riscontrare un bug bloccante,"ciao, bisogna riscontrare un bug bloccante che impatta tutti gli utenti entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0119,Aurora Geiger,aurorageiger78@gmail.com,Richiesta supporto - categoria: Commerciale,"Ciao, per favore dovremmo proporre le condizioni contrattuali con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0120,Graziella De Felici,grazielladefelici96@libero.it,Richiesta supporto - categoria: Commerciale,"Buongiorno,
+con la presente si richiede cortesemente di attivare il listino prezzi aggiornato valido solo fino a fine mese.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0121,Nicoletta Sarachino,nicoletta.sarachino99@outlook.it,URGENTE: Disdire un account demo,[NOTIFICA AUTOMATICA]: Rilevata necessità di disdire un account demo per il mercato estero. Si prega di non rispondere a questa email.,Commerciale,Media
+TKT-0122,Sofia Piccardo,sofia.piccardo@gmail.com,URGENTE: Restituire la fattura,"Ciao, per favore dovremmo restituire la fattura non ancora pervenuto il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Alta
+TKT-0123,Walter Valli,walter.valli83@libero.it,Sbloccare lo sconto commerciale,"Ciao, per favore dovremmo sbloccare lo sconto commerciale per un potenziale cliente il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0124,Mariastella Zironi,mariastella.zironi@outlook.it,i permessi di accesso - da mobile e da desktop,[NOTIFICA AUTOMATICA]: Rilevata necessità di isolare i permessi di accesso da mobile e da desktop. Si prega di non rispondere a questa email.,Tecnico,Bassa
+TKT-0125,Benedetta Leppori,benedetta.leppori@libero.it,Segnalazione un preventivo,"Potete negoziare un preventivo in vista della scadenza?
+Grazie, saluti.",Commerciale,Bassa
+TKT-0126,Leone Vignati,leone.vignati87@libero.it,URGENTE: Ottimizzare il picco di traffico anomalo,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di ottimizzare il picco di traffico anomalo che impatta tutti gli utenti.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0127,Oclerio Guarik,oclerioguarik83@gmail.com,Segnalazione il picco di traffico anomalo,"Potete isolare il picco di traffico anomalo dopo l'ultimo aggiornamento?
+Grazie, saluti.",Tecnico,Alta
+TKT-0128,Irene Agizza,i.agizza77@outlook.it,Richiesta info il giustificativo di spesa non ancora pervenuto,"Ciao, per favore dovremmo approvare il giustificativo di spesa non ancora pervenuto il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0129,Bruno Brusutti,bruno.brusutti71@hotmail.com,Ticket Restituire la distinta di bonifico,"Buongiorno,
+con la presente si richiede cortesemente di restituire la distinta di bonifico per duplicazione interna.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0130,Erika Loli,erika.loli06@hotmail.com,AIUTO - problema con la nota spese,"Salve, si richiede di verificare la nota spese relativo al trimestre in corso. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0131,Antonella Frasanchin,antonella.frasanchin73@gmail.com,URGENTE: Ricevere l'estratto conto,"ciao, bisogna ricevere l'estratto conto relativo al trimestre in corso entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Alta
+TKT-0132,Caterina La Montagna,caterina.lamontagna@outlook.it,Segnalazione un account demo,"Salve, si richiede di disdire un account demo con opzione multilicenza. Restiamo in attesa di un riscontro urgente.",Commerciale,Media
+TKT-0133,Giacomo Briozzo,g.briozzo@hotmail.com,Testare un leak di memoria,"Ciao, per favore dovremmo testare un leak di memoria dopo l'ultimo aggiornamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0134,Michelangelo Ciccuto,michelangelo.ciccuto82@gmail.com,Richiesta info un preventivo con opzione multilicenza,"Ciao, per favore dovremmo negoziare un preventivo con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0135,Michelangelo Ciccuto,michelangelo.ciccuto82@gmail.com,Segnalazione i permessi di accesso,"Ciao, per favore dovremmo risolvere i permessi di accesso da mobile e da desktop il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Bassa
+TKT-0136,Maria Miroballi,maria.miroballi01@hotmail.com,Attivare la penale di recesso,"ciao, bisogna attivare la penale di recesso per il pacchetto Enterprise entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Alta
+TKT-0137,Angelo Giaccio,angelo.giaccio84@gmail.com,la penale di recesso - per il mercato estero,"Purtroppo si è reso necessario sbloccare la penale di recesso per il mercato estero.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Alta
+TKT-0138,Erika Loli,erika.loli06@hotmail.com,Richiesta supporto - categoria: Tecnico,"Ciao, per favore dovremmo isolare il certificato SSL scaduto in fase di caricamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0139,Irene Agizza,i.agizza77@outlook.it,Segnalazione la penale di recesso,"Ciao, per favore dovremmo rinnovare la penale di recesso per un potenziale cliente il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0140,Caterina Aiani,caterina.aiani98@gmail.com,Segnalazione un errore 500,[NOTIFICA AUTOMATICA]: Rilevata necessità di riscontrare un errore 500 dopo l'ultimo aggiornamento. Si prega di non rispondere a questa email.,Tecnico,Media
+TKT-0141,Bruno Brusutti,bruno.brusutti71@hotmail.com,Segnalazione il backup notturno,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di configurare il backup notturno dopo l'ultimo aggiornamento.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Bassa
+TKT-0142,Lucia Cagnotto,lucia.cagnotto@gmail.com,Riavviare un errore 500,"Ciao, per favore dovremmo riavviare un errore 500 durante il login il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0143,Rosa Kepa,rosa.kepa86@hotmail.com,URGENTE: Sbloccare il listino prezzi aggiornato,"ho un problema, quando posso chiamarvi?",Commerciale,Media
+TKT-0144,Sonja Parisella,sonja.parisella86@hotmail.com,Richiesta supporto - categoria: Tecnico,"ciao, bisogna isolare il crash dell'app sulla macchina di produzione entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0145,Bruno Brusutti,bruno.brusutti71@hotmail.com,Richiesta supporto - categoria: Commerciale,"Ciao, per favore dovremmo modificare un preventivo per il pacchetto Enterprise il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0146,Pina Lampieri,pina.lampieri@libero.it,Riscontrare un errore 500,"sono Pina Lampieri, ho un problema critico, ne possiamo parlare il prima possibile?",Tecnico,Media
+TKT-0147,Walter Crociat,w.crociat@outlook.it,Ticket Risolvere i permessi di accesso,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di risolvere i permessi di accesso in fase di caricamento.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Bassa
+TKT-0148,Salvo Mongardo,salvo.mongardo04@gmail.com,Richiesta info il giustificativo di spesa non ancora pervenuto,[NOTIFICA AUTOMATICA]: Rilevata necessità di sospendere il giustificativo di spesa non ancora pervenuto. Si prega di non rispondere a questa email.,Amministrazione,Alta
+TKT-0149,Wilma Svetoni,wilma.svetoni@libero.it,URGENTE: Inviare la nota spese,"Purtroppo si è reso necessario inviare la nota spese per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Alta
+TKT-0150,Maria Miroballi,maria.miroballi01@hotmail.com,Assistere la fattura,"ciao, bisogna assistere la fattura per il servizio cloud entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Bassa
+TKT-0151,Carola Ripoli,carola.ripoli@hotmail.com,URGENTE: Contabilizzare il sollecito di pagamento,[NOTIFICA AUTOMATICA]: Rilevata necessità di contabilizzare il sollecito di pagamento non ancora pervenuto. Si prega di non rispondere a questa email.,Amministrazione,Media
+TKT-0152,Mariastella Zironi,mariastella.zironi@outlook.it,URGENTE: Contabilizzare il pagamento,"ciao, bisogna contabilizzare il pagamento per il servizio cloud entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Alta
+TKT-0153,Rosa Kepa,rosa.kepa86@hotmail.com,Segnalazione la fattura,"Purtroppo si è reso necessario rettificare la fattura relativo al trimestre in corso.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0154,Giacomo Briozzo,g.briozzo@hotmail.com,Richiesta supporto - categoria: Amministrazione,"Ciao, per favore dovremmo sollecitare la nota di credito relativo al trimestre in corso il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0155,Maria Miroballi,maria.miroballi01@hotmail.com,Testare il crash dell'app,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di testare il crash dell'app da mobile e da desktop.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0156,Santino Pereira,santino.pereira85@gmail.com,Archiviare la distinta di bonifico,"ciao, bisogna archiviare la distinta di bonifico mancante della firma digitale entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Media
+TKT-0157,Maurizia Mazzotta,maurizia.mazzotta01@outlook.it,AIUTO - problema con un bug bloccante,"Buongiorno,
+con la presente si richiede cortesemente di monitorare un bug bloccante durante il login.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0158,Fulvia Memi,fulvia.memi@gmail.com,Contabilizzare il giustificativo di spesa,"Ciao, per favore dovremmo contabilizzare il giustificativo di spesa con importo errato il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0159,Walter Valli,walter.valli83@libero.it,Isolare il crash dell'app,"Ciao, per favore dovremmo isolare il crash dell'app sulla macchina di produzione il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0160,Diana Cortese,diana.cortese97@hotmail.com,AIUTO - problema con la nota di credito,"Ciao, per favore dovremmo archiviare la nota di credito relativo al trimestre in corso il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0161,Diego Cravagna,cravagna.diego@gmail.com,URGENTE: Approvare il rimborso,"Salve, si richiede di approvare il rimborso per duplicazione interna. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0162,Lucrezia Di Segni,l.disegni82@gmail.com,Richiesta info il listino prezzi aggiornato per il pacchetto Enterprise,"ciao, bisogna attivare il listino prezzi aggiornato per il pacchetto Enterprise entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0163,Annalisa Del Fiol,annalisa.delfiol93@gmail.com,Richiesta supporto - categoria: Amministrazione,"ciao, bisogna stornare il rimborso mancante della firma digitale entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Media
+TKT-0164,Sonja Parisella,sonja.parisella86@hotmail.com,Richiedere lo sconto commerciale,"Potete richiedere lo sconto commerciale in vista della scadenza?
+Grazie, saluti.",Commerciale,Bassa
+TKT-0165,Eleonora Brescon,eleonora.brescon@hotmail.com,AIUTO - problema con la nota di credito,"ciao, bisogna restituire la nota di credito con importo errato entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Media
+TKT-0166,Maria Miroballi,maria.miroballi01@hotmail.com,Richiesta supporto - categoria: Commerciale,"Purtroppo si è reso necessario valutare un account demo in vista della scadenza.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0167,Fabiana Turoldo,f.turoldo@hotmail.com,Richiesta info il listino prezzi aggiornato con fatturazione annuale anticipata,"Potete estendere il listino prezzi aggiornato con fatturazione annuale anticipata?
+Grazie, saluti.",Commerciale,Bassa
+TKT-0168,Pina Lampieri,pina.lampieri@libero.it,Ticket Richiedere il piano di abbonamento,"Ciao, per favore dovremmo richiedere il piano di abbonamento con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0169,Sofia Piccardo,sofia.piccardo@gmail.com,Segnalazione lo sconto commerciale,"Ciao, per favore dovremmo proporre lo sconto commerciale con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0170,Renzo Finiti,renzo.finiti89@gmail.com,URGENTE: Testare il database lento,"Ciao, per favore dovremmo testare il database lento dopo l'ultimo aggiornamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0171,Ugo Paltenghi,ugo.paltenghi75@gmail.com,URGENTE: Disdire la penale di recesso,"Buongiorno,
+con la presente si richiede cortesemente di disdire la penale di recesso per la nuova filiale.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0172,Pieranna Guastella,guastella.pieranna@gmail.com,URGENTE: Ottimizzare un bug bloccante,ottimizzare un bug bloccante dopo l'ultimo aggiornamento.,Tecnico,Alta
+TKT-0173,Sofia D'Ancona,dancona.sofia@gmail.com,Segnalazione il crash dell'app,[NOTIFICA AUTOMATICA]: Rilevata necessità di configurare il crash dell'app sull'ambiente di staging. Si prega di non rispondere a questa email.,Tecnico,Alta
+TKT-0174,Pamela De Rica,derica.pamela@gmail.com,Richiesta info un bug bloccante dopo l'ultimo aggiornamento,[NOTIFICA AUTOMATICA]: Rilevata necessità di ripristinare un bug bloccante dopo l'ultimo aggiornamento. Si prega di non rispondere a questa email.,Tecnico,Media
+TKT-0175,Beatrice Andolfi,b.andolfi97@gmail.com,URGENTE: Modificare la licenza aggiuntiva,"ciao, bisogna modificare la licenza aggiuntiva con opzione multilicenza entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Alta
+TKT-0176,Angelo Giaccio,angelo.giaccio84@gmail.com,URGENTE: Stornare lo storno,"Salve, si richiede di stornare lo storno per duplicazione interna. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0177,Maria Miroballi,maria.miroballi01@hotmail.com,Ticket Sbloccare lo sconto commerciale,"Ciao, per favore dovremmo sbloccare lo sconto commerciale con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0178,Alessandra Scanferla,a.scanferla@gmail.com,Segnalazione lo sconto commerciale,"Potete disdire lo sconto commerciale in vista della scadenza?
+Grazie, saluti.",Commerciale,Media
+TKT-0179,Pierpaolo Miulan,pierpaolo.miulan@outlook.it,Segnalazione un preventivo,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di negoziare un preventivo per un potenziale cliente.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0180,Antonia Saccotelli,saccotelli.antonia@gmail.com,Contabilizzare l'estratto conto,"Potete contabilizzare l'estratto conto non ancora pervenuto?
+Grazie, saluti.",Amministrazione,Bassa
+TKT-0181,Claudio Mozzoni,c.mozzoni88@gmail.com,Rettificare la nota di credito,"Buongiorno,
+con la presente si richiede cortesemente di rettificare la nota di credito con importo errato.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0182,Fabrizia Armentarutti,fabrizia.armentarutti@hotmail.com,Ticket Configurare il picco di traffico anomalo,"Buongiorno,
+con la presente si richiede cortesemente di configurare il picco di traffico anomalo durante il login.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0183,Renzo Finiti,renzo.finiti89@gmail.com,Richiesta info un preventivo per il mercato estero,"Buongiorno,
+con la presente si richiede cortesemente di modificare un preventivo per il mercato estero.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0184,Maria Miroballi,maria.miroballi01@hotmail.com,URGENTE: Sollecitare la nota di credito,"Buongiorno,
+con la presente si richiede cortesemente di sollecitare la nota di credito con importo errato.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0185,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,URGENTE: Negoziare i dati del nuovo lead,"Purtroppo si è reso necessario negoziare i dati del nuovo lead per un potenziale cliente.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Alta
+TKT-0186,Ulrico Guarese,ulrico.guarese90@gmail.com,URGENTE: Ottimizzare i permessi di accesso,"Buongiorno,
+con la presente si richiede cortesemente di ottimizzare i permessi di accesso sull'ambiente di staging.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0187,Marcelo Vinanzio,marcelovinanzio85@gmail.com,Richiesta info i permessi di accesso durante il login,"Ciao, per favore dovremmo testare i permessi di accesso durante il login il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Bassa
+TKT-0188,Saverio Massaroni,saverio.massaroni73@gmail.com,Inviare la nota spese,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di inviare la nota spese relativo al trimestre in corso.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Bassa
+TKT-0189,Caterina La Montagna,caterina.lamontagna@outlook.it,Riscontrare il crash dell'app,"ciao, bisogna riscontrare il crash dell'app durante il login entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0190,Pinuccia De Batte',p.debatte86@gmail.com,Ripristinare il backup notturno,"Buongiorno,
+con la presente si richiede cortesemente di ripristinare il backup notturno in fase di caricamento.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0191,Leone Vignati,leone.vignati87@libero.it,un leak di memoria - da mobile e da desktop,[NOTIFICA AUTOMATICA]: Rilevata necessità di risolvere un leak di memoria da mobile e da desktop. Si prega di non rispondere a questa email.,Tecnico,Alta
+TKT-0192,Foscarina Lorenti,foscarina.lorenti@gmail.com,Sbloccare la proposta di partnership,"Ciao, per favore dovremmo sbloccare la proposta di partnership con fatturazione annuale anticipata il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0193,Nicoletta Sarachino,nicoletta.sarachino99@outlook.it,Richiesta supporto - categoria: Commerciale,"Ciao, per favore dovremmo valutare la proposta di partnership per il mercato estero il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0194,Wilma Svetoni,wilma.svetoni@libero.it,URGENTE: Verificare il giustificativo di spesa,"Salve, si richiede di verificare il giustificativo di spesa con importo errato. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0195,Giancarlo Antoniazzi,g.antoniazzi@outlook.it,Richiesta info lo sconto commerciale per il mercato estero,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di modificare lo sconto commerciale per il mercato estero.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0196,Piera Cantagalli,piera.cantagalli73@gmail.com,URGENTE: Negoziare il piano di abbonamento,"Ciao, per favore dovremmo negoziare il piano di abbonamento per la nuova filiale il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0197,Vincenzo Toselli,vincenzo_toselli@gmail.com,Segnalazione l'estratto conto,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di verificare l'estratto conto del mese scorso.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Bassa
+TKT-0198,Lucrezia Di Segni,l.disegni82@gmail.com,un bug bloccante - subito dopo il deploy di stamattina,[NOTIFICA AUTOMATICA]: Rilevata necessità di monitorare un bug bloccante subito dopo il deploy di stamattina. Si prega di non rispondere a questa email.,Tecnico,Media
+TKT-0199,Giulio Orifici,giulio.orifici05@gmail.com,URGENTE: Assistere il rimborso,"ciao, bisogna assistere il rimborso del mese scorso entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Alta
+TKT-0200,Francesca Andreose,francesca.andreose@gmail.com,Riavviare il database lento,riavviare il database lento dopo l'ultimo aggiornamento.,Tecnico,Media
+TKT-0201,Santino Pereira,santino.pereira85@gmail.com,Segnalazione il sollecito di pagamento,"Ciao, per favore dovremmo archiviare il sollecito di pagamento non ancora pervenuto il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0202,Marta Brusamolin,m.brusamolin@libero.it,il rimborso - relativo al trimestre in corso,"Ciao, per favore dovremmo inviare il rimborso relativo al trimestre in corso il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0203,Aldo Malandro,malandro.aldo@libero.it,URGENTE: Attivare il piano di abbonamento,"Potete attivare il piano di abbonamento in vista della scadenza?
+Grazie, saluti.",Commerciale,Alta
+TKT-0204,Antonella Frasanchin,antonella.frasanchin73@gmail.com,AIUTO - problema con il certificato SSL scaduto,"Purtroppo si è reso necessario segnalare il certificato SSL scaduto subito dopo il deploy di stamattina.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0205,Remo Damaschini,remo.damaschini79@gmail.com,Segnalazione il pagamento,"Purtroppo si è reso necessario contabilizzare il pagamento con importo errato.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0206,Remo Damaschini,remo.damaschini79@gmail.com,Segnalazione il backup notturno,[NOTIFICA AUTOMATICA]: Rilevata necessità di monitorare il backup notturno che impatta tutti gli utenti. Si prega di non rispondere a questa email.,Tecnico,Bassa
+TKT-0207,Nicoletta Ponchione,nicoletta.ponchione98@gmail.com,Segnalazione un leak di memoria,"Salve, si richiede di ripristinare un leak di memoria sull'ambiente di staging. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0208,Pinuccia De Batte',p.debatte86@gmail.com,Sollecitare il pagamento,"Salve, si richiede di sollecitare il pagamento per duplicazione interna. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0209,Sofia Piccardo,sofia.piccardo@gmail.com,Richiesta info il certificato SSL scaduto subito dopo il deploy di stamattina,"Ciao, per favore dovremmo segnalare il certificato SSL scaduto subito dopo il deploy di stamattina il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0210,Walter Valli,walter.valli83@libero.it,Richiesta info un errore 500 che impatta tutti gli utenti,"Purtroppo si è reso necessario aggiornare un errore 500 che impatta tutti gli utenti.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Media
+TKT-0211,Diego Cravagna,cravagna.diego@gmail.com,Segnalazione la licenza aggiuntiva,"Ciao, per favore dovremmo proporre la licenza aggiuntiva con fatturazione annuale anticipata il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0212,Samuele Kristian,samuelekristian72@gmail.com,URGENTE: Isolare un leak di memoria,"Ciao, per favore dovremmo isolare un leak di memoria sull'ambiente di staging il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0213,Fabio Vanessa,fabio.vanessa03@gmail.com,URGENTE: Isolare i permessi di accesso,"Buongiorno,
+con la presente si richiede cortesemente di isolare i permessi di accesso sulla macchina di produzione.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0214,Lucia Cagnotto,lucia.cagnotto@gmail.com,la licenza aggiuntiva - con opzione multilicenza,"Salve, si richiede di proporre la licenza aggiuntiva con opzione multilicenza. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0215,Pierpaolo Miulan,pierpaolo.miulan@outlook.it,Richiesta info il database lento che impatta tutti gli utenti,"Salve, si richiede di ripristinare il database lento che impatta tutti gli utenti. Restiamo in attesa di un riscontro urgente.",Tecnico,Media
+TKT-0216,Sofia D'Ancona,dancona.sofia@gmail.com,Stornare la nota spese,"Buongiorno,
+con la presente si richiede cortesemente di stornare la nota spese per duplicazione interna.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0217,Giancarlo Antoniazzi,g.antoniazzi@outlook.it,Testare un bug bloccante,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di testare un bug bloccante sulla macchina di produzione.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Media
+TKT-0218,Cristiano Ceccot,ceccot.cristiano@gmail.com,AIUTO - problema con l'estratto conto,"Purtroppo si è reso necessario sollecitare l'estratto conto per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0219,Samuele Kristian,samuelekristian72@gmail.com,Estendere un account demo,"Per curiosità stavo spulciando un account demo, ho scoperto che estendere un account demo per il pacchetto Enterprise, e questo è un problema!",Commerciale,Media
+TKT-0220,Aldo Malandro,malandro.aldo@libero.it,URGENTE: Contabilizzare il rimborso,"Ciao, per favore dovremmo contabilizzare il rimborso del mese scorso il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Alta
+TKT-0221,Remo Simoniti,simoniti.remo@gmail.com,Ticket Estendere le condizioni contrattuali,"Salve, si richiede di estendere le condizioni contrattuali con fatturazione annuale anticipata. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0222,Fabrizia Armentarutti,fabrizia.armentarutti@hotmail.com,URGENTE: Valutare il listino prezzi aggiornato,"Potete valutare il listino prezzi aggiornato per il pacchetto Enterprise?
+Grazie, saluti.",Commerciale,Alta
+TKT-0223,Leone Vignati,leone.vignati87@libero.it,Richiesta info il server offline subito dopo il deploy di stamattina,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di ottimizzare il server offline subito dopo il deploy di stamattina.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0224,Giacomo Chiaradia,g.chiaradia@gmail.com,URGENTE: Richiedere un preventivo,"Potete richiedere un preventivo per il pacchetto Enterprise?
+Grazie, saluti.",Commerciale,Alta
+TKT-0225,Fulvia Memi,fulvia.memi@gmail.com,Sbloccare un preventivo,"Ciao, per favore dovremmo sbloccare un preventivo per il mercato estero il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0226,Renato Perilongo,renato.perilongo93@gmail.com,URGENTE: Aggiornare i permessi di accesso,"ciao, bisogna aggiornare i permessi di accesso che impatta tutti gli utenti entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0227,Erika Loli,erika.loli06@hotmail.com,AIUTO - problema con il database lento,"Buongiorno,
+con la presente si richiede cortesemente di riscontrare il database lento sulla macchina di produzione.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Media
+TKT-0228,Samuele Canestraro,samuele.canestraro95@outlook.it,URGENTE: Rinnovare la penale di recesso,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di rinnovare la penale di recesso valido solo fino a fine mese.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0229,Giovanni Vesprini,giovanni.vesprini@gmail.com,Richiesta info il crash dell'app sull'ambiente di staging,[NOTIFICA AUTOMATICA]: Rilevata necessità di segnalare il crash dell'app sull'ambiente di staging. Si prega di non rispondere a questa email.,Tecnico,Alta
+TKT-0230,Valter Smaltino,valtersmaltino84@gmail.com,Modificare la proposta di partnership,"Salve, si richiede di modificare la proposta di partnership con fatturazione annuale anticipata. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0231,Sofia D'Ancona,dancona.sofia@gmail.com,Richiedere la penale di recesso,"Buongiorno,
+con la presente si richiede cortesemente di richiedere la penale di recesso in vista della scadenza.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0232,Maria Miroballi,maria.miroballi01@hotmail.com,Richiesta info l'estratto conto del mese scorso,"Buongiorno,
+con la presente si richiede cortesemente di inviare l'estratto conto del mese scorso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0233,Walter Crociat,w.crociat@outlook.it,URGENTE: Sospendere il sollecito di pagamento,"Ciao, per favore dovremmo sospendere il sollecito di pagamento non ancora pervenuto il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Alta
+TKT-0234,Massimo Di Varmo,massimo.divarmo72@hotmail.com,Richiesta info la nota spese relativo al trimestre in corso,"Salve, si richiede di restituire la nota spese relativo al trimestre in corso. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0235,Oclerio Guarik,oclerioguarik83@gmail.com,Ticket Ottimizzare il picco di traffico anomalo,"Salve, sono Oclerio Guarik. Ho scoperto che ottimizzare il picco di traffico anomalo:subito dopo il deploy di stamattina",Tecnico,Alta
+TKT-0236,Caterina Aiani,caterina.aiani98@gmail.com,Approvare la distinta di bonifico,"Salve, sono Caterina Aiani. Ho scoperto che approvare la distinta di bonifico:mancante della firma digitale",Amministrazione,Media
+TKT-0237,Maurizia Tantari,maurizia.tantari06@hotmail.com,Ripristinare un bug bloccante,"Ciao, per favore dovremmo ripristinare un bug bloccante durante il login il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0238,Valter Smaltino,valtersmaltino84@gmail.com,Richiesta info il rimborso non ancora pervenuto,"ciao, bisogna sospendere il rimborso non ancora pervenuto entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Alta
+TKT-0239,Achille Seigambe,achille.seigambe06@outlook.it,Richiesta info il listino prezzi aggiornato valido solo fino a fine mese,"ho un problema, quando posso chiamarvi?",Commerciale,Media
+TKT-0240,Caterina La Montagna,caterina.lamontagna@outlook.it,Ricevere la distinta di bonifico,"Ciao, per favore dovremmo ricevere la distinta di bonifico per il servizio cloud il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0241,Marco Guadenzi,marco.guadenzi71@gmail.com,Richiesta supporto - categoria: Tecnico,"Salve, sono Marco Guadenzi. Ho scoperto che ottimizzare i permessi di accesso:da mobile e da desktop",Tecnico,Bassa
+TKT-0242,Ester Caraffo,ester.caraffo@gmail.com,Ticket Verificare la nota spese,"Ciao, per favore dovremmo verificare la nota spese relativo al trimestre in corso il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0243,Francesco Minold,francescominold75@gmail.com,URGENTE: Rinnovare un account demo,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di rinnovare un account demo per il mercato estero.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0244,Walter Valli,walter.valli83@libero.it,Richiesta supporto - categoria: Commerciale,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di richiedere le condizioni contrattuali per il pacchetto Enterprise.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0245,Bruno Brusutti,bruno.brusutti71@hotmail.com,AIUTO - problema con lo storno,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di verificare lo storno per duplicazione interna.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Media
+TKT-0246,Graziella De Felici,grazielladefelici96@libero.it,Disdire le condizioni contrattuali,"Purtroppo si è reso necessario disdire le condizioni contrattuali per il pacchetto Enterprise.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Media
+TKT-0247,Piera Cantagalli,piera.cantagalli73@gmail.com,Ticket Attivare la licenza aggiuntiva,"Salve, si richiede di attivare la licenza aggiuntiva con fatturazione annuale anticipata. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0248,Remo Simoniti,simoniti.remo@gmail.com,URGENTE: Richiedere le condizioni contrattuali,"Salve, si richiede di richiedere le condizioni contrattuali per il pacchetto Enterprise. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0249,Rosanna Pilatti,pilatti.rosanna@libero.it,Attivare la licenza aggiuntiva,"Salve, si richiede di attivare la licenza aggiuntiva con fatturazione annuale anticipata. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0250,Raffaele Pecorari,raffaele.pecorari92@gmail.com,URGENTE: Restituire il giustificativo di spesa,[NOTIFICA AUTOMATICA]: Rilevata necessità di restituire il giustificativo di spesa mancante della firma digitale. Si prega di non rispondere a questa email.,Amministrazione,Media
+TKT-0251,Santino Pereira,santino.pereira85@gmail.com,Segnalazione lo storno,"Ciao, per favore dovremmo assistere lo storno da inoltrare al commercialista il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0252,Valter Smaltino,valtersmaltino84@gmail.com,un errore 500 - durante il login,"Salve, si richiede di segnalare un errore 500 durante il login. Restiamo in attesa di un riscontro urgente.",Tecnico,Media
+TKT-0253,Mariastella Zironi,mariastella.zironi@outlook.it,Contabilizzare il giustificativo di spesa,"Ciao, per favore dovremmo contabilizzare il giustificativo di spesa con importo errato il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0254,Clara Manassi,clara.manassi03@gmail.com,Richiesta supporto - categoria: Amministrazione,"ciao, bisogna restituire il giustificativo di spesa da inoltrare al commercialista entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Bassa
+TKT-0255,Marianna Ruggera,marianna_ruggera@hotmail.com,Richiesta supporto - categoria: Tecnico,"ciao, bisogna configurare un errore 500 sull'ambiente di staging entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Media
+TKT-0256,Marco Guadenzi,marco.guadenzi71@gmail.com,Ticket Sollecitare lo storno,"ciao, bisogna sollecitare lo storno relativo al trimestre in corso entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Media
+TKT-0257,Fabiana Turoldo,f.turoldo@hotmail.com,Ticket Restituire la distinta di bonifico,"Purtroppo si è reso necessario restituire la distinta di bonifico del mese scorso.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Bassa
+TKT-0258,Sofia Enea,s.enea93@hotmail.com,Richiesta info la fattura da inoltrare al commercialista,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di ricevere la fattura da inoltrare al commercialista.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Bassa
+TKT-0259,Annamaria Mammone,annamaria.mammone@gmail.com,URGENTE: Restituire il rimborso,"ciao, bisogna restituire il rimborso del mese scorso entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Alta
+TKT-0260,Paola Valeriano,paola.valeriano82@gmail.com,URGENTE: Estendere le condizioni contrattuali,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di estendere le condizioni contrattuali per la nuova filiale.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0261,Renato Perilongo,renato.perilongo93@gmail.com,URGENTE: Testare il backup notturno,"ciao, bisogna testare il backup notturno sulla macchina di produzione entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0262,Gianmaria D'Odorico Comuzzi,g.dodoricocomuzzi97@yahoo.com,Segnalazione le condizioni contrattuali,"Potete rinnovare le condizioni contrattuali in vista della scadenza?
+Grazie, saluti.",Commerciale,Bassa
+TKT-0263,Valter Smaltino,valtersmaltino84@gmail.com,URGENTE: Ottimizzare il picco di traffico anomalo,"ciao, bisogna ottimizzare il picco di traffico anomalo durante il login entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0264,Massimo Di Varmo,massimo.divarmo72@hotmail.com,URGENTE: Richiedere le condizioni contrattuali,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di richiedere le condizioni contrattuali per il pacchetto Enterprise.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0265,Lucia Cagnotto,lucia.cagnotto@gmail.com,Segnalazione il giustificativo di spesa,"Potete archiviare il giustificativo di spesa per duplicazione interna?
+Grazie, saluti.",Amministrazione,Bassa
+TKT-0266,Andrea Giaffreda,andrea.giaffreda84@gmail.com,URGENTE: Configurare un bug bloccante,"Buongiorno,
+con la presente si richiede cortesemente di configurare un bug bloccante che impatta tutti gli utenti.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0267,Nicoletta Ponchione,nicoletta.ponchione98@gmail.com,la licenza aggiuntiva - per un potenziale cliente,"Ciao, per favore dovremmo sbloccare la licenza aggiuntiva per un potenziale cliente il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0268,Diana Cinardi,diana.cinardi@hotmail.com,URGENTE: Rinnovare la proposta di partnership,"Potete rinnovare la proposta di partnership valido solo fino a fine mese?
+Grazie, saluti.",Commerciale,Alta
+TKT-0269,Lucina Aiezza,lucina.aiezza83@gmail.com,Ticket Modificare lo sconto commerciale,"Ciao, per favore dovremmo modificare lo sconto commerciale per un potenziale cliente il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0270,Oclerio Guarik,oclerioguarik83@gmail.com,Segnalazione il database lento,"Salve, si richiede di riavviare il database lento durante il login. Restiamo in attesa di un riscontro urgente.",Tecnico,Media
+TKT-0271,Salvo Mongardo,salvo.mongardo04@gmail.com,URGENTE: Modificare la proposta di partnership,[NOTIFICA AUTOMATICA]: Rilevata necessità di modificare la proposta di partnership in vista della scadenza. Si prega di non rispondere a questa email.,Commerciale,Alta
+TKT-0272,Piera Cantagalli,piera.cantagalli73@gmail.com,Negoziare un preventivo,"Ciao, per favore dovremmo negoziare un preventivo per la nuova filiale il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0273,Francesca Andreose,francesca.andreose@gmail.com,Richiesta info la proposta di partnership con opzione multilicenza,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di attivare la proposta di partnership con opzione multilicenza.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0274,Raffaele Pecorari,raffaele.pecorari92@gmail.com,Ticket Disdire la licenza aggiuntiva,"Ciao, per favore dovremmo disdire la licenza aggiuntiva per il pacchetto Enterprise il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Media
+TKT-0275,Renzo Finiti,renzo.finiti89@gmail.com,URGENTE: Ottimizzare un leak di memoria,"Buongiorno,
+con la presente si richiede cortesemente di ottimizzare un leak di memoria dopo l'ultimo aggiornamento.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0276,Remo Simoniti,simoniti.remo@gmail.com,Richiesta supporto - categoria: Tecnico,testare il database lento che impatta tutti gli utenti.,Tecnico,Media
+TKT-0277,Bruno Zurcolo,bruno.zurcolo87@gmail.com,Stornare la fattura,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di stornare la fattura con importo errato.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Media
+TKT-0278,Alessandra Scanferla,a.scanferla@gmail.com,Segnalazione le condizioni contrattuali,"Purtroppo si è reso necessario modificare le condizioni contrattuali con fatturazione annuale anticipata.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0279,Giulio Orifici,giulio.orifici05@gmail.com,Riscontrare un errore 500,"Buongiorno,
+con la presente si richiede cortesemente di riscontrare un errore 500 dopo l'ultimo aggiornamento.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Media
+TKT-0280,Pierpaolo Laurino,p.laurino@yahoo.com,Ticket Monitorare il backup notturno,"Salve, si richiede di monitorare il backup notturno da mobile e da desktop. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0281,Raffaele Pecorari,raffaele.pecorari92@gmail.com,Ticket Stornare lo storno,[NOTIFICA AUTOMATICA]: Rilevata necessità di stornare lo storno del mese scorso. Si prega di non rispondere a questa email.,Amministrazione,Media
+TKT-0282,Alessandro Castano',castano.alessandro@gmail.com,Valutare un account demo,"Buongiorno,
+con la presente si richiede cortesemente di valutare un account demo per il mercato estero.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0283,Vincenzo Nai Fovino,vincenzo.naifovino@gmail.com,un bug bloccante - sull'ambiente di staging,"Salve, si richiede di riscontrare un bug bloccante sull'ambiente di staging. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0284,Paola Valeriano,paola.valeriano82@gmail.com,Segnalazione un bug bloccante,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di configurare un bug bloccante sull'ambiente di staging.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Media
+TKT-0285,Benedetta Leppori,benedetta.leppori@libero.it,Segnalazione il certificato SSL scaduto,"ciao, bisogna ottimizzare il certificato SSL scaduto da mobile e da desktop entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0286,Andrea Giaffreda,andrea.giaffreda84@gmail.com,la fattura - del mese scorso,"Buongiorno,
+con la presente si richiede cortesemente di ricevere la fattura del mese scorso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0287,Carlo Guindano,c.guindano@libero.it,Segnalazione il pagamento,"Salve, si richiede di sollecitare il pagamento del mese scorso. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0288,Donatella Curmano,curmano.donatella@gmail.com,Richiesta supporto - categoria: Amministrazione,"Potete assistere il pagamento per il servizio cloud?
+Grazie, saluti.",Amministrazione,Bassa
+TKT-0289,Marco Guadenzi,marco.guadenzi71@gmail.com,Segnalazione il certificato SSL scaduto,"Potete ottimizzare il certificato SSL scaduto durante il login?
+Grazie, saluti.",Tecnico,Alta
+TKT-0290,Sofia D'Ancona,dancona.sofia@gmail.com,URGENTE: Valutare il listino prezzi aggiornato,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di valutare il listino prezzi aggiornato con fatturazione annuale anticipata.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0291,Aurora Geiger,aurorageiger78@gmail.com,Richiesta supporto - categoria: Amministrazione,"Ciao, per favore dovremmo verificare la nota di credito non ancora pervenuto il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0292,Bruno Brusutti,bruno.brusutti71@hotmail.com,URGENTE: Approvare il rimborso,"Purtroppo si è reso necessario approvare il rimborso per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Alta
+TKT-0293,Silvia Rabello,silvia.rabello@gmail.com,Richiesta info il giustificativo di spesa relativo al trimestre in corso,"Buongiorno,
+con la presente si richiede cortesemente di sollecitare il giustificativo di spesa relativo al trimestre in corso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0294,Rino Sonn,r.sonn71@libero.it,Richiesta info le condizioni contrattuali con fatturazione annuale anticipata,"Purtroppo si è reso necessario disdire le condizioni contrattuali con fatturazione annuale anticipata.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Media
+TKT-0295,Cristiano Ceccot,ceccot.cristiano@gmail.com,URGENTE: Sollecitare la fattura,"Ciao, per favore dovremmo sollecitare la fattura con importo errato il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0296,Samuele Canestraro,samuele.canestraro95@outlook.it,URGENTE: Valutare la penale di recesso,"Ciao, per favore dovremmo valutare la penale di recesso per il mercato estero il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0297,Valter Smaltino,valtersmaltino84@gmail.com,Richiesta info un bug bloccante dopo l'ultimo aggiornamento,"ho un problema, quando posso chiamarvi?",Tecnico,Media
+TKT-0298,Carmen Arezzi,c.arezzi@hotmail.com,Richiesta supporto - categoria: Tecnico,"ciao, bisogna ottimizzare un leak di memoria in fase di caricamento entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0299,Remo Damaschini,remo.damaschini79@gmail.com,Segnalazione il listino prezzi aggiornato,"Salve, si richiede di valutare il listino prezzi aggiornato per il mercato estero. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0300,Mirella Pignalosa,mirella.pignalosa87@gmail.com,Richiesta info il giustificativo di spesa non ancora pervenuto,"Potete sollecitare il giustificativo di spesa non ancora pervenuto?
+Grazie, saluti.",Amministrazione,Media
+TKT-0301,Carola Ugatini,carola.ugatini@gmail.com,Richiesta info il listino prezzi aggiornato con opzione multilicenza,"Ciao, per favore dovremmo negoziare il listino prezzi aggiornato con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0302,Gaetano Cantagalli,gaetano_cantagalli@yahoo.com,Contabilizzare il sollecito di pagamento,"Ciao, per favore dovremmo contabilizzare il sollecito di pagamento non ancora pervenuto il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0303,Samuele Kristian,samuelekristian72@gmail.com,Richiesta supporto - categoria: Amministrazione,"ciao, bisogna sospendere la distinta di bonifico per duplicazione interna entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Alta
+TKT-0304,Ester Caraffo,ester.caraffo@gmail.com,Segnalazione il server offline,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di aggiornare il server offline che impatta tutti gli utenti.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0305,Marianna Ruggera,marianna_ruggera@hotmail.com,Segnalazione un bug bloccante,"Ciao, per favore dovremmo risolvere un bug bloccante che impatta tutti gli utenti il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0306,Andrea Giaffreda,andrea.giaffreda84@gmail.com,Segnalazione il sollecito di pagamento,"Potete contabilizzare il sollecito di pagamento con importo errato?
+Grazie, saluti.",Amministrazione,Media
+TKT-0307,Maurizio Tovani,maurizio.tovani@gmail.com,URGENTE: Riscontrare il backup notturno,"Ciao, per favore dovremmo riscontrare il backup notturno che impatta tutti gli utenti il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0308,Cristina Dubiosi,cristina.dubiosi71@outlook.it,Attivare la proposta di partnership,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di attivare la proposta di partnership per il pacchetto Enterprise.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0309,Carlo Guindano,c.guindano@libero.it,Richiesta info un bug bloccante che impatta tutti gli utenti,"Buongiorno,
+con la presente si richiede cortesemente di riscontrare un bug bloccante che impatta tutti gli utenti.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0310,Piero Severino,p.severino83@gmail.com,Segnalazione un account demo,"Purtroppo si è reso necessario disdire un account demo in vista della scadenza.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Media
+TKT-0311,Miranda Mongiatti,miranda.mongiatti82@outlook.it,Ticket Negoziare la licenza aggiuntiva,"Salve, sono Miranda Mongiatti. Ho scoperto che negoziare la licenza aggiuntiva:per il pacchetto Enterprise",Commerciale,Bassa
+TKT-0312,Raimondo Ponzillo,raimondo.ponzillo04@hotmail.com,Richiesta info il server offline subito dopo il deploy di stamattina,"Salve, si richiede di aggiornare il server offline subito dopo il deploy di stamattina. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0313,Renato Perilongo,renato.perilongo93@gmail.com,Segnalazione il server offline,"Buongiorno,
+con la presente si richiede cortesemente di segnalare il server offline durante il login.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0314,Erika Loli,erika.loli06@hotmail.com,Ticket Negoziare il piano di abbonamento,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di negoziare il piano di abbonamento in vista della scadenza.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0315,Graziella De Felici,grazielladefelici96@libero.it,Richiedere il listino prezzi aggiornato,[NOTIFICA AUTOMATICA]: Rilevata necessità di richiedere il listino prezzi aggiornato con opzione multilicenza. Si prega di non rispondere a questa email.,Commerciale,Bassa
+TKT-0316,Maria Miroballi,maria.miroballi01@hotmail.com,URGENTE: Restituire il giustificativo di spesa,"Ciao, per favore dovremmo restituire il giustificativo di spesa per il servizio cloud il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Alta
+TKT-0317,Carola Ripoli,carola.ripoli@hotmail.com,Ticket Valutare la licenza aggiuntiva,"Buongiorno,
+con la presente si richiede cortesemente di valutare la licenza aggiuntiva valido solo fino a fine mese.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0318,Fabrizia Armentarutti,fabrizia.armentarutti@hotmail.com,Richiesta supporto - categoria: Commerciale,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di negoziare un account demo valido solo fino a fine mese.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0319,Raimondo Ponzillo,raimondo.ponzillo04@hotmail.com,Proporre il listino prezzi aggiornato,"Ciao, per favore dovremmo proporre il listino prezzi aggiornato per un potenziale cliente il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0320,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,il rimborso - mancante della firma digitale,"Buongiorno,
+con la presente si richiede cortesemente di sollecitare il rimborso mancante della firma digitale.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0321,Franca Iavazzo,franca.iavazzo@gmail.com,il piano di abbonamento - valido solo fino a fine mese,"Salve, sono Franca Iavazzo. Ho scoperto che estendere il piano di abbonamento:valido solo fino a fine mese",Commerciale,Bassa
+TKT-0322,Pina Lampieri,pina.lampieri@libero.it,Segnalazione il rimborso,"Ciao, per favore dovremmo verificare il rimborso mancante della firma digitale il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0323,Leone Vignati,leone.vignati87@libero.it,Segnalazione le condizioni contrattuali,"ciao, bisogna sbloccare le condizioni contrattuali con opzione multilicenza entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0324,Wilma Svetoni,wilma.svetoni@libero.it,il database lento - che impatta tutti gli utenti,"Ciao, per favore dovremmo riscontrare il database lento che impatta tutti gli utenti il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0325,Pieranna Guastella,guastella.pieranna@gmail.com,URGENTE: Riscontrare il database lento,"Ciao, per favore dovremmo riscontrare il database lento sulla macchina di produzione il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0326,Benedetta Leppori,benedetta.leppori@libero.it,Ticket Riavviare un bug bloccante,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di riavviare un bug bloccante da mobile e da desktop.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Media
+TKT-0327,Sofia D'Ancona,dancona.sofia@gmail.com,Risolvere il certificato SSL scaduto,"Purtroppo si è reso necessario risolvere il certificato SSL scaduto in fase di caricamento.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0328,Pieranna Guastella,guastella.pieranna@gmail.com,URGENTE: Aggiornare il backup notturno,"Salve, si richiede di aggiornare il backup notturno dopo l'ultimo aggiornamento. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0329,Vincenzo Toselli,vincenzo_toselli@gmail.com,Verificare la distinta di bonifico,"Ciao, per favore dovremmo verificare la distinta di bonifico del mese scorso il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0330,Rino Sonn,r.sonn71@libero.it,Segnalazione il database lento,"ciao, bisogna isolare il database lento da mobile e da desktop entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Media
+TKT-0331,Maria Miroballi,maria.miroballi01@hotmail.com,Attivare il listino prezzi aggiornato,"Salve, si richiede di attivare il listino prezzi aggiornato in vista della scadenza. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0332,Giovanni Vesprini,giovanni.vesprini@gmail.com,Monitorare il server offline,"Ciao, per favore dovremmo monitorare il server offline da mobile e da desktop il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0333,Gaetano Alberioli,gaetano.alberioli87@gmail.com,Segnalazione il crash dell'app,"Salve, sono Gaetano Alberioli. Ho scoperto che ottimizzare il crash dell'app:sull'ambiente di staging",Tecnico,Alta
+TKT-0334,Greta Franzosi,g.franzosi@gmail.com,Ticket Isolare un errore 500,"Ciao, per favore dovremmo isolare un errore 500 che impatta tutti gli utenti il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0335,Salvo Mongardo,salvo.mongardo04@gmail.com,Segnalazione la licenza aggiuntiva,"Buongiorno,
+con la presente si richiede cortesemente di richiedere la licenza aggiuntiva per la nuova filiale.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0336,Alice Geluso,geluso.alice@gmail.com,Ripristinare il server offline,"ho un problema, quando posso chiamarvi?",Tecnico,Media
+TKT-0337,Maurizia Mazzotta,maurizia.mazzotta01@outlook.it,URGENTE: Testare il server offline,"Purtroppo si è reso necessario testare il server offline sull'ambiente di staging.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0338,Dolores Cagli,dolores.cagli95@gmail.com,Segnalazione il picco di traffico anomalo,"Ciao, per favore dovremmo riscontrare il picco di traffico anomalo che impatta tutti gli utenti il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0339,Benedetta Leppori,benedetta.leppori@libero.it,Richiesta supporto - categoria: Commerciale,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di estendere la penale di recesso in vista della scadenza.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0340,Antonella Frasanchin,antonella.frasanchin73@gmail.com,URGENTE: Isolare il picco di traffico anomalo,"Ciao, per favore dovremmo isolare il picco di traffico anomalo sulla macchina di produzione il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0341,Gloria Pagliariccia,g.pagliariccia@gmail.com,Richiedere la licenza aggiuntiva,"ciao, bisogna richiedere la licenza aggiuntiva in vista della scadenza entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0342,Marica Caneparo,m.caneparo96@gmail.com,URGENTE: Rettificare il rimborso,"ciao, bisogna rettificare il rimborso per duplicazione interna entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Media
+TKT-0343,Achille Seigambe,achille.seigambe06@outlook.it,Segnalazione un preventivo,"ciao, bisogna rinnovare un preventivo con opzione multilicenza entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0344,Mirella Pignalosa,mirella.pignalosa87@gmail.com,Richiesta info il certificato SSL scaduto sull'ambiente di staging,"Ciao, per favore dovremmo isolare il certificato SSL scaduto sull'ambiente di staging il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0345,Miranda Mongiatti,miranda.mongiatti82@outlook.it,URGENTE: Ripristinare il server offline,"Salve, si richiede di ripristinare il server offline dopo l'ultimo aggiornamento. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0346,Grazia Li Muli,grazia.limuli@gmail.com,Richiesta supporto - categoria: Tecnico,"Buongiorno,
+con la presente si richiede cortesemente di riscontrare il database lento sulla macchina di produzione.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Media
+TKT-0347,Samuele Niso,samuele.niso06@gmail.com,un account demo - valido solo fino a fine mese,"Salve, si richiede di sbloccare un account demo valido solo fino a fine mese. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0348,Greta Franzosi,g.franzosi@gmail.com,URGENTE: Contabilizzare il giustificativo di spesa,"Salve, si richiede di contabilizzare il giustificativo di spesa con importo errato. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0349,Caterina Aiani,caterina.aiani98@gmail.com,URGENTE: Rinnovare la proposta di partnership,"Ciao, per favore dovremmo rinnovare la proposta di partnership con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0350,Carola Ripoli,carola.ripoli@hotmail.com,Richiesta supporto - categoria: Amministrazione,"Purtroppo si è reso necessario archiviare l'estratto conto per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Bassa
+TKT-0351,Gaetano Cantagalli,gaetano_cantagalli@yahoo.com,Richiesta supporto - categoria: Tecnico,"Buongiorno,
+con la presente si richiede cortesemente di configurare il crash dell'app sulla macchina di produzione.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0352,Giulio Orifici,giulio.orifici05@gmail.com,Richiesta info lo storno mancante della firma digitale,"Salve, si richiede di sollecitare lo storno mancante della firma digitale. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0353,Pina Lampieri,pina.lampieri@libero.it,AIUTO - problema con il backup notturno,"Salve, sono Pina Lampieri. Ho scoperto che configurare il backup notturno:sull'ambiente di staging",Tecnico,Media
+TKT-0354,Pierpaolo Miulan,pierpaolo.miulan@outlook.it,Richiesta supporto - categoria: Commerciale,"Potete disdire un account demo per il mercato estero?
+Grazie, saluti.",Commerciale,Media
+TKT-0355,Fulvia Memi,fulvia.memi@gmail.com,Segnalazione il picco di traffico anomalo,"ciao, bisogna segnalare il picco di traffico anomalo durante il login entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0356,Antonella Frasanchin,antonella.frasanchin73@gmail.com,Segnalazione il giustificativo di spesa,"Purtroppo si è reso necessario restituire il giustificativo di spesa per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Bassa
+TKT-0357,Carmen Arezzi,c.arezzi@hotmail.com,Richiesta supporto - categoria: Commerciale,"Purtroppo si è reso necessario rinnovare le condizioni contrattuali con opzione multilicenza.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0358,Clara Manassi,clara.manassi03@gmail.com,URGENTE: Archiviare lo storno,"Salve, si richiede di archiviare lo storno per il servizio cloud. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0359,Marcelo Vinanzio,marcelovinanzio85@gmail.com,Segnalazione il picco di traffico anomalo,"Salve, si richiede di riavviare il picco di traffico anomalo sulla macchina di produzione. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0360,Foscarina Lorenti,foscarina.lorenti@gmail.com,Estendere un account demo,"ciao, bisogna estendere un account demo per la nuova filiale entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0361,Alessandra Scanferla,a.scanferla@gmail.com,Richiesta supporto - categoria: Commerciale,"Ciao, per favore dovremmo disdire la penale di recesso valido solo fino a fine mese il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Media
+TKT-0362,Franca Iavazzo,franca.iavazzo@gmail.com,URGENTE: Archiviare lo storno,"ciao, bisogna archiviare lo storno mancante della firma digitale entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Media
+TKT-0363,Fulvia Memi,fulvia.memi@gmail.com,Richiesta info la penale di recesso in vista della scadenza,"Potete modificare la penale di recesso in vista della scadenza?
+Grazie, saluti.",Commerciale,Alta
+TKT-0364,Annapaola Giucchelli,a.giucchelli@gmail.com,Segnalazione il pagamento,"Purtroppo si è reso necessario rettificare il pagamento non ancora pervenuto.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0365,Ulrico Guarese,ulrico.guarese90@gmail.com,Segnalazione lo storno,"Salve, si richiede di archiviare lo storno del mese scorso. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0366,Maurizio Tovani,maurizio.tovani@gmail.com,URGENTE: Sollecitare la nota spese,"Potete sollecitare la nota spese da inoltrare al commercialista?
+Grazie, saluti.",Amministrazione,Media
+TKT-0367,Alessandra Scanferla,a.scanferla@gmail.com,Richiesta supporto - categoria: Amministrazione,"ciao, bisogna approvare la fattura da inoltrare al commercialista entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Bassa
+TKT-0368,Grazia Li Muli,grazia.limuli@gmail.com,URGENTE: Ricevere la fattura,"Purtroppo si è reso necessario ricevere la fattura da inoltrare al commercialista.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Alta
+TKT-0369,Angelo Giaccio,angelo.giaccio84@gmail.com,URGENTE: Rinnovare un preventivo,"Purtroppo si è reso necessario rinnovare un preventivo per un potenziale cliente.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Alta
+TKT-0370,Graziella De Felici,grazielladefelici96@libero.it,Risolvere il crash dell'app,"ciao, bisogna risolvere il crash dell'app da mobile e da desktop entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0371,Dolores Cagli,dolores.cagli95@gmail.com,Ticket Restituire la nota spese,"Salve, si richiede di restituire la nota spese per il servizio cloud. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0372,Sonja Parisella,sonja.parisella86@hotmail.com,URGENTE: Attivare la penale di recesso,"ciao, bisogna attivare la penale di recesso per il pacchetto Enterprise entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Alta
+TKT-0373,Rosa Kepa,rosa.kepa86@hotmail.com,Richiesta supporto - categoria: Tecnico,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di testare il crash dell'app da mobile e da desktop.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0374,Oclerio Guarik,oclerioguarik83@gmail.com,URGENTE: Configurare il crash dell'app,"Buongiorno,
+con la presente si richiede cortesemente di configurare il crash dell'app subito dopo il deploy di stamattina.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0375,Wilma Svetoni,wilma.svetoni@libero.it,Segnalazione il crash dell'app,"ciao, bisogna isolare il crash dell'app subito dopo il deploy di stamattina entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0376,Diana Cortese,diana.cortese97@hotmail.com,URGENTE: Sospendere la distinta di bonifico,"Purtroppo si è reso necessario sospendere la distinta di bonifico da inoltrare al commercialista.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Alta
+TKT-0377,Carola Ripoli,carola.ripoli@hotmail.com,URGENTE: Assistere la nota spese,"Buongiorno,
+con la presente si richiede cortesemente di assistere la nota spese del mese scorso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0378,Pierpaolo Laurino,p.laurino@yahoo.com,Segnalazione i dati del nuovo lead,"Ciao, per favore dovremmo valutare i dati del nuovo lead per il pacchetto Enterprise il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0379,Renato Perilongo,renato.perilongo93@gmail.com,Riscontrare il crash dell'app,"Buongiorno,
+con la presente si richiede cortesemente di riscontrare il crash dell'app subito dopo il deploy di stamattina.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0380,Lucrezia Di Segni,l.disegni82@gmail.com,Segnalazione la distinta di bonifico,"Buongiorno,
+con la presente si richiede cortesemente di stornare la distinta di bonifico da inoltrare al commercialista.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0381,Annamaria Mammone,annamaria.mammone@gmail.com,Richiesta supporto - categoria: Commerciale,"Purtroppo si è reso necessario negoziare le condizioni contrattuali per il pacchetto Enterprise.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0382,Rosa Kepa,rosa.kepa86@hotmail.com,Richiesta supporto - categoria: Amministrazione,"Ciao, per favore dovremmo ricevere l'estratto conto non ancora pervenuto il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0383,Maurizia Mazzotta,maurizia.mazzotta01@outlook.it,URGENTE: Sbloccare un preventivo,"Purtroppo si è reso necessario sbloccare un preventivo in vista della scadenza.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Alta
+TKT-0384,Vincenzo Toselli,vincenzo_toselli@gmail.com,Segnalazione il giustificativo di spesa,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di verificare il giustificativo di spesa del mese scorso.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Bassa
+TKT-0385,Eleonora Brescon,eleonora.brescon@hotmail.com,Negoziare la licenza aggiuntiva,"ciao, bisogna negoziare la licenza aggiuntiva con fatturazione annuale anticipata entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0386,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,Ottimizzare un bug bloccante,"Ciao, per favore dovremmo ottimizzare un bug bloccante in fase di caricamento il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0387,Aldo Malandro,malandro.aldo@libero.it,Richiesta supporto - categoria: Amministrazione,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di approvare lo storno relativo al trimestre in corso.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Bassa
+TKT-0388,Dolores Cagli,dolores.cagli95@gmail.com,Segnalare un leak di memoria,"Ciao, per favore dovremmo segnalare un leak di memoria subito dopo il deploy di stamattina il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0389,Gloria Pagliariccia,g.pagliariccia@gmail.com,Monitorare il picco di traffico anomalo,"Salve, sono Gloria Pagliariccia. Ho scoperto che monitorare il picco di traffico anomalo:in fase di caricamento",Tecnico,Alta
+TKT-0390,Raimondo Ponzillo,raimondo.ponzillo04@hotmail.com,Ticket Aggiornare un errore 500,"Salve, si richiede di aggiornare un errore 500 che impatta tutti gli utenti. Restiamo in attesa di un riscontro urgente.",Tecnico,Media
+TKT-0391,Greta Franzosi,g.franzosi@gmail.com,Archiviare l'estratto conto,"Salve, si richiede di archiviare l'estratto conto da inoltrare al commercialista. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0392,Paola Valeriano,paola.valeriano82@gmail.com,Richiesta info l'estratto conto per duplicazione interna,"Potete sospendere l'estratto conto per duplicazione interna?
+Grazie, saluti.",Amministrazione,Alta
+TKT-0393,Elena Mannoia,mannoia.elena@outlook.it,Assistere lo storno,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di assistere lo storno mancante della firma digitale.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Media
+TKT-0394,Clara Manassi,clara.manassi03@gmail.com,Richiesta supporto - categoria: Commerciale,"Potete richiedere lo sconto commerciale per la nuova filiale?
+Grazie, saluti.",Commerciale,Bassa
+TKT-0395,Fabio Vanessa,fabio.vanessa03@gmail.com,Sbloccare il listino prezzi aggiornato,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di sbloccare il listino prezzi aggiornato per il mercato estero.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0396,Remo Damaschini,remo.damaschini79@gmail.com,Richiesta info il backup notturno in fase di caricamento,"Potete ripristinare il backup notturno in fase di caricamento?
+Grazie, saluti.",Tecnico,Bassa
+TKT-0397,Renzo Finiti,renzo.finiti89@gmail.com,Ticket Estendere lo sconto commerciale,"Ciao, per favore dovremmo estendere lo sconto commerciale con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0398,Pierpaolo Miulan,pierpaolo.miulan@outlook.it,URGENTE: Sollecitare la fattura,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di sollecitare la fattura mancante della firma digitale.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Media
+TKT-0399,Lucia Cagnotto,lucia.cagnotto@gmail.com,URGENTE: Aggiornare un bug bloccante,"ciao, bisogna aggiornare un bug bloccante sull'ambiente di staging entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0400,Rosanna Pilatti,pilatti.rosanna@libero.it,Segnalazione i permessi di accesso,"Ciao, per favore dovremmo ripristinare i permessi di accesso sull'ambiente di staging il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Bassa
+TKT-0401,Maurizia Tantari,maurizia.tantari06@hotmail.com,Segnalazione un bug bloccante,"Potete testare un bug bloccante sull'ambiente di staging?
+Grazie, saluti.",Tecnico,Media
+TKT-0402,Romano Lo Basso,lobasso.romano@gmail.com,Rinnovare lo sconto commerciale,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di rinnovare lo sconto commerciale valido solo fino a fine mese.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0403,Diego Cravagna,cravagna.diego@gmail.com,Richiesta info il database lento subito dopo il deploy di stamattina,"Buongiorno,
+con la presente si richiede cortesemente di ottimizzare il database lento subito dopo il deploy di stamattina.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Media
+TKT-0404,Carmen Arezzi,c.arezzi@hotmail.com,Disdire un account demo,"Buongiorno,
+con la presente si richiede cortesemente di disdire un account demo per la nuova filiale.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Media
+TKT-0405,Piero Severino,p.severino83@gmail.com,URGENTE: Richiedere la penale di recesso,"ciao, bisogna richiedere la penale di recesso con fatturazione annuale anticipata entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Alta
+TKT-0406,Vincenzo Nai Fovino,vincenzo.naifovino@gmail.com,Richiesta info un preventivo per il mercato estero,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di richiedere un preventivo per il mercato estero.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0407,Giulio Orifici,giulio.orifici05@gmail.com,AIUTO - problema con il piano di abbonamento,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di proporre il piano di abbonamento per il pacchetto Enterprise.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Media
+TKT-0408,Rino Sonn,r.sonn71@libero.it,Ticket Richiedere un account demo,"ho un problema, quando posso chiamarvi?",Commerciale,Media
+TKT-0409,Samuele Kristian,samuelekristian72@gmail.com,Configurare un bug bloccante,"Ciao, per favore dovremmo configurare un bug bloccante che impatta tutti gli utenti il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Media
+TKT-0410,Annapaola Giucchelli,a.giucchelli@gmail.com,URGENTE: Attivare lo sconto commerciale,"ho un problema, quando posso chiamarvi?",Commerciale,Media
+TKT-0411,Francesca Andreose,francesca.andreose@gmail.com,Valutare la penale di recesso,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di valutare la penale di recesso con fatturazione annuale anticipata.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0412,Lucia Cagnotto,lucia.cagnotto@gmail.com,Richiesta supporto - categoria: Tecnico,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di riscontrare il database lento in fase di caricamento.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Media
+TKT-0413,Antonia Saccotelli,saccotelli.antonia@gmail.com,Sollecitare la nota spese,"Purtroppo si è reso necessario sollecitare la nota spese mancante della firma digitale.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0414,Benedetta Leppori,benedetta.leppori@libero.it,Testare un leak di memoria,"Purtroppo si è reso necessario testare un leak di memoria sull'ambiente di staging.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0415,Pina Lampieri,pina.lampieri@libero.it,URGENTE: Valutare le condizioni contrattuali,"Ciao, per favore dovremmo valutare le condizioni contrattuali con opzione multilicenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0416,Fabio Vacchin,f.vacchin@libero.it,Richiesta supporto - categoria: Amministrazione,"Buongiorno,
+con la presente si richiede cortesemente di sollecitare il rimborso per duplicazione interna.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0417,Fulvia Memi,fulvia.memi@gmail.com,Negoziare i dati del nuovo lead,"Ciao, per favore dovremmo negoziare i dati del nuovo lead con fatturazione annuale anticipata il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0418,Fabio Vacchin,f.vacchin@libero.it,URGENTE: Stornare il giustificativo di spesa,"Buongiorno,
+con la presente si richiede cortesemente di stornare il giustificativo di spesa per duplicazione interna.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0419,Alessandro Castano',castano.alessandro@gmail.com,Richiesta supporto - categoria: Amministrazione,"ciao, bisogna contabilizzare l'estratto conto per duplicazione interna entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Bassa
+TKT-0420,Aldo Malandro,malandro.aldo@libero.it,Sospendere lo storno,"ho un problema, quando posso chiamarvi?",Amministrazione,Media
+TKT-0421,Valter Smaltino,valtersmaltino84@gmail.com,URGENTE: Sbloccare un preventivo,"Buongiorno,
+con la presente si richiede cortesemente di sbloccare un preventivo per il pacchetto Enterprise.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0422,Ester Caraffo,ester.caraffo@gmail.com,Ticket Sbloccare la penale di recesso,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di sbloccare la penale di recesso con fatturazione annuale anticipata.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0423,Giacomo Chiaradia,g.chiaradia@gmail.com,Sospendere lo storno,"Purtroppo si è reso necessario sospendere lo storno mancante della firma digitale.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0424,Wilma Svetoni,wilma.svetoni@libero.it,il server offline - subito dopo il deploy di stamattina,[NOTIFICA AUTOMATICA]: Rilevata necessità di segnalare il server offline subito dopo il deploy di stamattina. Si prega di non rispondere a questa email.,Tecnico,Alta
+TKT-0425,Gloria Pagliariccia,g.pagliariccia@gmail.com,Segnalazione la fattura,"sono Gloria Pagliariccia, ho un problema critico, ne possiamo parlare il prima possibile?",Amministrazione,Media
+TKT-0426,Massimo Di Varmo,massimo.divarmo72@hotmail.com,Sollecitare il giustificativo di spesa,"Purtroppo si è reso necessario sollecitare il giustificativo di spesa mancante della firma digitale.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0427,Francesco Minold,francescominold75@gmail.com,Assistere la distinta di bonifico,"ciao, bisogna assistere la distinta di bonifico del mese scorso entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Bassa
+TKT-0428,Nicoletta Sarachino,nicoletta.sarachino99@outlook.it,Riavviare il crash dell'app,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di riavviare il crash dell'app sull'ambiente di staging.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0429,Carlo Guindano,c.guindano@libero.it,la fattura - relativo al trimestre in corso,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di rettificare la fattura relativo al trimestre in corso.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Media
+TKT-0430,Diego Cravagna,cravagna.diego@gmail.com,Ticket Richiedere lo sconto commerciale,"ciao, bisogna richiedere lo sconto commerciale con fatturazione annuale anticipata entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0431,Giovanni Vesprini,giovanni.vesprini@gmail.com,Testare il picco di traffico anomalo,"Purtroppo si è reso necessario testare il picco di traffico anomalo sull'ambiente di staging.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0432,Oclerio Guarik,oclerioguarik83@gmail.com,URGENTE: Richiedere i dati del nuovo lead,"Buongiorno,
+con la presente si richiede cortesemente di richiedere i dati del nuovo lead valido solo fino a fine mese.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0433,Caterina Aiani,caterina.aiani98@gmail.com,URGENTE: Configurare il certificato SSL scaduto,"Ciao, per favore dovremmo configurare il certificato SSL scaduto sull'ambiente di staging il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Tecnico,Alta
+TKT-0434,Bruno Brusutti,bruno.brusutti71@hotmail.com,URGENTE: Ripristinare il database lento,"Buongiorno,
+con la presente si richiede cortesemente di ripristinare il database lento in fase di caricamento.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Media
+TKT-0435,Pierpaolo Miulan,pierpaolo.miulan@outlook.it,Segnalazione il certificato SSL scaduto,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di configurare il certificato SSL scaduto da mobile e da desktop.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0436,Mirella Pignalosa,mirella.pignalosa87@gmail.com,Segnalazione le condizioni contrattuali,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di modificare le condizioni contrattuali per un potenziale cliente.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Bassa
+TKT-0437,Francesca Andreose,francesca.andreose@gmail.com,Disdire un preventivo,"Salve, si richiede di disdire un preventivo con fatturazione annuale anticipata. Restiamo in attesa di un riscontro urgente.",Commerciale,Media
+TKT-0438,Antonia Giovannella,antonia.giovannella97@gmail.com,AIUTO - problema con un leak di memoria,"Salve, si richiede di riavviare un leak di memoria che impatta tutti gli utenti. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0439,Marcelo Vinanzio,marcelovinanzio85@gmail.com,Richiesta info la proposta di partnership con fatturazione annuale anticipata,"Ciao, per favore dovremmo richiedere la proposta di partnership con fatturazione annuale anticipata il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0440,Antonia Saccotelli,saccotelli.antonia@gmail.com,Richiesta supporto - categoria: Commerciale,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di richiedere la penale di recesso per un potenziale cliente.
+Rimango a disposizione.
+
+Buon lavoro.",Commerciale,Alta
+TKT-0441,Stefania Alarico,stefania_alarico@gmail.com,Ticket Restituire la distinta di bonifico,"ciao, bisogna restituire la distinta di bonifico per duplicazione interna entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Bassa
+TKT-0442,Irene Agizza,i.agizza77@outlook.it,URGENTE: Approvare il giustificativo di spesa,"Buongiorno,
+con la presente si richiede cortesemente di approvare il giustificativo di spesa per il servizio cloud.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0443,Donatella Curmano,curmano.donatella@gmail.com,Segnalazione il database lento,"ciao, bisogna risolvere il database lento subito dopo il deploy di stamattina entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Media
+TKT-0444,Samuele Kristian,samuelekristian72@gmail.com,Segnalazione un bug bloccante,"ciao, bisogna ottimizzare un bug bloccante sull'ambiente di staging entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Media
+TKT-0445,Laura Major,laura.major@gmail.com,Restituire l'estratto conto,"Salve, si richiede di restituire l'estratto conto con importo errato. Restiamo in attesa di un riscontro urgente.",Amministrazione,Media
+TKT-0446,Enrico Furiosi,enrico.furiosi03@libero.it,URGENTE: Modificare il piano di abbonamento,"Buongiorno,
+con la presente si richiede cortesemente di modificare il piano di abbonamento per il mercato estero.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Commerciale,Alta
+TKT-0447,Lucia Cagnotto,lucia.cagnotto@gmail.com,URGENTE: Aggiornare il certificato SSL scaduto,"Buongiorno,
+con la presente si richiede cortesemente di aggiornare il certificato SSL scaduto durante il login.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0448,Marco Guadenzi,marco.guadenzi71@gmail.com,Richiesta info il database lento subito dopo il deploy di stamattina,"Salve, si richiede di riavviare il database lento subito dopo il deploy di stamattina. Restiamo in attesa di un riscontro urgente.",Tecnico,Media
+TKT-0449,Pieranna Guastella,guastella.pieranna@gmail.com,Negoziare i dati del nuovo lead,"Ciao, per favore dovremmo negoziare i dati del nuovo lead con fatturazione annuale anticipata il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0450,Diana Cortese,diana.cortese97@hotmail.com,URGENTE: Rettificare l'estratto conto,"Buongiorno,
+con la presente si richiede cortesemente di rettificare l'estratto conto relativo al trimestre in corso.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Media
+TKT-0451,Donatella Curmano,curmano.donatella@gmail.com,Negoziare il listino prezzi aggiornato,"Ciao, per favore dovremmo negoziare il listino prezzi aggiornato valido solo fino a fine mese il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0452,Marta Brusamolin,m.brusamolin@libero.it,URGENTE: Rinnovare un account demo,"Potete rinnovare un account demo per la nuova filiale?
+Grazie, saluti.",Commerciale,Alta
+TKT-0453,Walter Valli,walter.valli83@libero.it,Ticket Ripristinare un bug bloccante,"ciao, bisogna ripristinare un bug bloccante dopo l'ultimo aggiornamento entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Media
+TKT-0454,Cristiano Ceccot,ceccot.cristiano@gmail.com,URGENTE: Ripristinare un leak di memoria,"Buongiorno,
+con la presente si richiede cortesemente di ripristinare un leak di memoria sulla macchina di produzione.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0455,Alessandro Castano',castano.alessandro@gmail.com,URGENTE: Sospendere lo storno,"Salve, si richiede di sospendere lo storno mancante della firma digitale. Restiamo in attesa di un riscontro urgente.",Amministrazione,Alta
+TKT-0456,Pamela De Rica,derica.pamela@gmail.com,Richiesta info la nota spese per duplicazione interna,"Purtroppo si è reso necessario inviare la nota spese per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Bassa
+TKT-0457,Pieranna Guastella,guastella.pieranna@gmail.com,Segnalazione il piano di abbonamento,"Ciao, per favore dovremmo modificare il piano di abbonamento per la nuova filiale il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0458,Annalisa Del Fiol,annalisa.delfiol93@gmail.com,Ticket Isolare il crash dell'app,"Buongiorno,
+con la presente si richiede cortesemente di isolare il crash dell'app da mobile e da desktop.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0459,Rosa Kepa,rosa.kepa86@hotmail.com,Segnalazione la fattura,"Ciao, per favore dovremmo sospendere la fattura da inoltrare al commercialista il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Alta
+TKT-0460,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,Richiedere il listino prezzi aggiornato,"Salve, si richiede di richiedere il listino prezzi aggiornato per un potenziale cliente. Restiamo in attesa di un riscontro urgente.",Commerciale,Alta
+TKT-0461,Gloria Pagliariccia,g.pagliariccia@gmail.com,Richiesta info lo sconto commerciale in vista della scadenza,"Ciao, per favore dovremmo richiedere lo sconto commerciale in vista della scadenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0462,Vincenzo Toselli,vincenzo_toselli@gmail.com,Richiedere il listino prezzi aggiornato,"Ciao, per favore dovremmo richiedere il listino prezzi aggiornato per un potenziale cliente il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0463,Remo Simoniti,simoniti.remo@gmail.com,URGENTE: Aggiornare un leak di memoria,"Purtroppo si è reso necessario aggiornare un leak di memoria che impatta tutti gli utenti.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0464,Walter Valli,walter.valli83@libero.it,Ticket Attivare un account demo,[NOTIFICA AUTOMATICA]: Rilevata necessità di attivare un account demo valido solo fino a fine mese. Si prega di non rispondere a questa email.,Commerciale,Bassa
+TKT-0465,Luca Spinace',luca.spinace@gmail.com,Richiesta supporto - categoria: Amministrazione,"ciao, bisogna ricevere la nota spese relativo al trimestre in corso entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Bassa
+TKT-0466,Greta Franzosi,g.franzosi@gmail.com,URGENTE: Archiviare l'estratto conto,"Potete archiviare l'estratto conto del mese scorso?
+Grazie, saluti.",Amministrazione,Alta
+TKT-0467,Mariastella Zironi,mariastella.zironi@outlook.it,Richiesta supporto - categoria: Tecnico,"Salve, si richiede di configurare un errore 500 dopo l'ultimo aggiornamento. Restiamo in attesa di un riscontro urgente.",Tecnico,Media
+TKT-0468,Antonia Giovannella,antonia.giovannella97@gmail.com,Ticket Modificare le condizioni contrattuali,"Ciao, per favore dovremmo modificare le condizioni contrattuali per un potenziale cliente il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0469,Paola Valeriano,paola.valeriano82@gmail.com,URGENTE: Archiviare il pagamento,"Ciao, per favore dovremmo archiviare il pagamento per duplicazione interna il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Alta
+TKT-0470,Nicoletta Ponchione,nicoletta.ponchione98@gmail.com,URGENTE: Restituire la nota spese,"ciao, bisogna restituire la nota spese del mese scorso entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Alta
+TKT-0471,Samuele Niso,samuele.niso06@gmail.com,Ticket Isolare il crash dell'app,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di isolare il crash dell'app durante il login.
+Rimango a disposizione.
+
+Buon lavoro.",Tecnico,Alta
+TKT-0472,Sofia Piccardo,sofia.piccardo@gmail.com,Ticket Restituire il sollecito di pagamento,"Purtroppo si è reso necessario restituire il sollecito di pagamento per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0473,Bruno Zurcolo,bruno.zurcolo87@gmail.com,Richiesta info le condizioni contrattuali per il pacchetto Enterprise,"Ciao, per favore dovremmo richiedere le condizioni contrattuali per il pacchetto Enterprise il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0474,Romano Lo Basso,lobasso.romano@gmail.com,Ticket Richiedere i dati del nuovo lead,"ciao, bisogna richiedere i dati del nuovo lead valido solo fino a fine mese entro oggi se riusciamo... fatemi sapere, grazie",Commerciale,Bassa
+TKT-0475,Stefania Alarico,stefania_alarico@gmail.com,Isolare il picco di traffico anomalo,"Purtroppo si è reso necessario isolare il picco di traffico anomalo sull'ambiente di staging.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0476,Irene Agizza,i.agizza77@outlook.it,Valutare il piano di abbonamento,"Purtroppo si è reso necessario valutare il piano di abbonamento per un potenziale cliente.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0477,Laura Major,laura.major@gmail.com,URGENTE: Ripristinare il certificato SSL scaduto,"ciao, bisogna ripristinare il certificato SSL scaduto dopo l'ultimo aggiornamento entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0478,Raffaele Pecorari,raffaele.pecorari92@gmail.com,Richiesta info lo sconto commerciale con fatturazione annuale anticipata,"Purtroppo si è reso necessario sbloccare lo sconto commerciale con fatturazione annuale anticipata.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Commerciale,Bassa
+TKT-0479,Walter Crociat,w.crociat@outlook.it,Segnalazione la penale di recesso,"Ciao, per favore dovremmo disdire la penale di recesso valido solo fino a fine mese il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Media
+TKT-0480,Laura Major,laura.major@gmail.com,URGENTE: Monitorare un bug bloccante,"ho un problema, quando posso chiamarvi?",Tecnico,Media
+TKT-0481,Valter Smaltino,valtersmaltino84@gmail.com,AIUTO - problema con il certificato SSL scaduto,"Potete aggiornare il certificato SSL scaduto che impatta tutti gli utenti?
+Grazie, saluti.",Tecnico,Alta
+TKT-0482,Silvia Rabello,silvia.rabello@gmail.com,Attivare le condizioni contrattuali,"Ciao, per favore dovremmo attivare le condizioni contrattuali in vista della scadenza il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Bassa
+TKT-0483,Sofia D'Ancona,dancona.sofia@gmail.com,Richiesta info il sollecito di pagamento per duplicazione interna,"Purtroppo si è reso necessario stornare il sollecito di pagamento per duplicazione interna.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Amministrazione,Media
+TKT-0484,Greta Franzosi,g.franzosi@gmail.com,Segnalazione lo storno,"Ciao, per favore dovremmo restituire lo storno relativo al trimestre in corso il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Bassa
+TKT-0485,Lucia Cagnotto,lucia.cagnotto@gmail.com,Archiviare il sollecito di pagamento,"Potete archiviare il sollecito di pagamento mancante della firma digitale?
+Grazie, saluti.",Amministrazione,Media
+TKT-0486,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,URGENTE: Ripristinare un leak di memoria,"Buongiorno,
+con la presente si richiede cortesemente di ripristinare un leak di memoria da mobile e da desktop.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Tecnico,Alta
+TKT-0487,Francesca Andreose,francesca.andreose@gmail.com,URGENTE: Restituire la distinta di bonifico,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di restituire la distinta di bonifico non ancora pervenuto.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Alta
+TKT-0488,Lucrezia Di Segni,l.disegni82@gmail.com,Segnalazione un bug bloccante,"Potete riscontrare un bug bloccante durante il login?
+Grazie, saluti.",Tecnico,Media
+TKT-0489,Valter Smaltino,valtersmaltino84@gmail.com,Segnalare il server offline,"Purtroppo si è reso necessario segnalare il server offline da mobile e da desktop.
+Procedere appena possibile, blocca il lavoro del team.
+Grazie.",Tecnico,Alta
+TKT-0490,Gastone Koschiltzki,g.koschiltzki04@hotmail.com,Segnalazione il giustificativo di spesa,"Ciao, per favore dovremmo rettificare il giustificativo di spesa relativo al trimestre in corso il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0491,Raffaele Pecorari,raffaele.pecorari92@gmail.com,Riavviare i permessi di accesso,"Salve, si richiede di riavviare i permessi di accesso che impatta tutti gli utenti. Restiamo in attesa di un riscontro urgente.",Tecnico,Alta
+TKT-0492,Grazia Li Muli,grazia.limuli@gmail.com,URGENTE: Verificare la fattura,[NOTIFICA AUTOMATICA]: Rilevata necessità di verificare la fattura per duplicazione interna. Si prega di non rispondere a questa email.,Amministrazione,Alta
+TKT-0493,Beatrice Andolfi,b.andolfi97@gmail.com,Approvare il sollecito di pagamento,"Ciao, per favore dovremmo approvare il sollecito di pagamento per il servizio cloud il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0494,Diana Cinardi,diana.cinardi@hotmail.com,AIUTO - problema con il rimborso,"Ciao, per favore dovremmo inviare il rimborso da inoltrare al commercialista il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Amministrazione,Media
+TKT-0495,Giacomo Briozzo,g.briozzo@hotmail.com,Assistere la distinta di bonifico,"Buongiorno,
+con la presente si richiede cortesemente di assistere la distinta di bonifico per il servizio cloud.
+Restiamo in attesa di un vostro riscontro urgente.
+
+Cordiali saluti.",Amministrazione,Alta
+TKT-0496,Enrico Furiosi,enrico.furiosi03@libero.it,URGENTE: Sbloccare lo sconto commerciale,"Ciao, per favore dovremmo sbloccare lo sconto commerciale per la nuova filiale il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0497,Antonella Frasanchin,antonella.frasanchin73@gmail.com,Richiesta info il pagamento per duplicazione interna,"ciao, bisogna inviare il pagamento per duplicazione interna entro oggi se riusciamo... fatemi sapere, grazie",Amministrazione,Bassa
+TKT-0498,Raimondo Ponzillo,raimondo.ponzillo04@hotmail.com,URGENTE: Riscontrare i permessi di accesso,"ciao, bisogna riscontrare i permessi di accesso dopo l'ultimo aggiornamento entro oggi se riusciamo... fatemi sapere, grazie",Tecnico,Alta
+TKT-0499,Silvia Rabello,silvia.rabello@gmail.com,Richiesta supporto - categoria: Commerciale,"Ciao, per favore dovremmo richiedere la penale di recesso per il pacchetto Enterprise il prima possibile.
+Fammi sapere si ci sono problemi. Grazie!",Commerciale,Alta
+TKT-0500,Gloria Pagliariccia,g.pagliariccia@gmail.com,Approvare il rimborso,"Gentili colleghi,
+vi ricontatto per sapere se ci sono novità in merito alla richiesta di approvare il rimborso con importo errato.
+Rimango a disposizione.
+
+Buon lavoro.",Amministrazione,Media
