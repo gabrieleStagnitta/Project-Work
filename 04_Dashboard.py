@@ -154,13 +154,47 @@ async def processa_batch(e):
     except Exception as ex:
         ui.notify(f'Errore: {str(ex)}', type='negative')
 
+tema_scuro = ui.dark_mode(value=None)
+# =====================================================================
+#funzioni per la dark mode
+def aggiorna_icona(is_dark):
+    btn_tema._props['icon'] = 'light_mode' if is_dark else 'dark_mode'
+    btn_tema.update()
+
+async def toggle_dark_mode():
+    if tema_scuro.value is None:
+        # Chiediamo al browser: "Sei già in modalità notte di default?"
+        is_system_dark = await ui.run_javascript('window.matchMedia("(prefers-color-scheme: dark)").matches')
+        # Se era già notte, il primo click ci porta al GIORNO (False), e viceversa!
+        tema_scuro.value = not is_system_dark
+    else:
+        tema_scuro.toggle()
+    aggiorna_icona(tema_scuro.value)
+
+async def sync_iniziale():
+    is_system_dark = await ui.run_javascript('window.matchMedia("(prefers-color-scheme: dark)").matches')
+    aggiorna_icona(is_system_dark)
+
+ui.timer(0.1, sync_iniziale, once=True)
 # =====================================================================
 #interfaccia grafica
 
 #cambio colori principali e font utilizzato
 ui.colors(primary='#2ca25f', secondary='#99d8c9', accent='#e5f5e0')
+tema_scuro = ui.dark_mode(value=None)
 #importa il font da Google Fonts
 ui.add_head_html('<link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Unica+One&display=swap" rel="stylesheet">')
+
+ui.add_head_html('''
+    <style>
+                 body.body--dark{
+                    background-color: #0f172a !important;
+                 }
+                 .body--dark .q-card{
+                    background-color: #1e293b !important;
+                 }
+    </style>
+                 ''')
 
 ui.add_css('''
     body {
@@ -172,13 +206,16 @@ ui.add_head_html('<link href="https://cdn.jsdelivr.net/themify-icons/0.1.2/css/t
 
 
 #header
-with ui.header(elevated=True).style('background-color: #006d2c'):
-    ui.label('Smart Ticketing').classes('text-2xl font-bold p-4 text-white w-full text-center')
+with ui.header().classes('justify-between items-center'):
+    ui.label('Machine Learning applicato allo Smart Ticketing').classes('text-xl font-bold')
+    btn_tema = ui.button(icon='dark_mode').props('round flat color=white').classes('text-white text-lg').on('click', toggle_dark_mode)
+
 
 #tabs
 with ui.tabs().classes('w-full') as tabs:
     tab_singolo = ui.tab('Analisi Ticket', icon='bar_chart')
     tab_batch = ui.tab('Elaborazione Batch', icon='cloud_upload')
+    
 
 #panels
 with ui.tab_panels(tabs, value=tab_singolo).classes('w-full max-w-4xl mx-auto mt-8'):
