@@ -6,6 +6,7 @@ import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 import asyncio
+
 # =====================================================================
 #funzioni di supporto e preprocessing
 def clean_text(text):
@@ -51,13 +52,16 @@ def get_top_words(text, vectorizer, model, top_n=5):
     top_words = [feature_names[i] for i in sorted_indices[:top_n] if punteggio_combinato[i] > 0]
     
     return top_words
+
 # =====================================================================
 #caricamento modelli
 try:
     vec_categoria = joblib.load('modelli/v_categoria.pkl')
-    vec_priorita = joblib.load('modelli/v_priorità.pkl')
     model_cat = joblib.load('modelli/m_categoria.pkl')
-    model_pri = joblib.load('modelli/m_priorità.pkl')    
+    
+    #caricamento dei dizionari per l'approccio gerarchico
+    dict_vec_priorita = joblib.load('modelli/v_priorità.pkl')
+    dict_mod_priorita = joblib.load('modelli/m_priorità.pkl')    
     print("Modelli caricati con successo!")
 #in caso di errore (file non trovati), vengono creati dei modelli fittizzi per non creare problemi 
 except FileNotFoundError:
@@ -65,10 +69,11 @@ except FileNotFoundError:
     dummy_texts = ["il server è offline", "fattura errata", "licenza commerciale bloccante", "router rotto", "sconto"]
     
     vec_categoria = TfidfVectorizer().fit(dummy_texts)
-    vec_priorita = TfidfVectorizer().fit(dummy_texts)
+    model_cat = RandomForestClassifier().fit(vec_categoria.transform(dummy_texts), ["tecnico", "amministrazione", "commerciale", "tecnico", "commerciale"])
     
-    model_cat = RandomForestClassifier().fit(vec_categoria.transform(dummy_texts), ["Tecnico", "Amministrazione", "Commerciale", "Tecnico", "Commerciale"])
-    model_pri = RandomForestClassifier().fit(vec_priorita.transform(dummy_texts), ["Alta", "Media", "Alta", "Bassa", "Bassa"])
+    #dizionari fittizi
+    dict_vec_priorita = {"tecnico": vec_categoria, "amministrazione": vec_categoria, "commerciale": vec_categoria}
+    dict_mod_priorita = {"tecnico": model_cat, "amministrazione": model_cat, "commerciale": model_cat}
 
 # =====================================================================
 #logica dell'analisi del singolo ticket
@@ -83,21 +88,32 @@ def analizza_singolo():
     #preprocessing
     testo_pulito = clean_text(titolo + " " + corpo)
     
-    
+    #predizione categoria (fase 1)
     X_cat = vec_categoria.transform([testo_pulito])
-    X_pri = vec_priorita.transform([testo_pulito])
-    
-    #predizioni separate
     categoria = model_cat.predict(X_cat)[0]
-    priorita = model_pri.predict(X_pri)[0]
     
+    #chiave di ricerca per il dizionario
+    cat_key = str(categoria).lower().strip()
+    
+    #predizione priorita (fase 2 - gerarchica)
+    if cat_key in dict_vec_priorita:
+        vec_pri_specifico = dict_vec_priorita[cat_key]
+        mod_pri_specifico = dict_mod_priorita[cat_key]
+        
+        X_pri = vec_pri_specifico.transform([testo_pulito])
+        priorita = mod_pri_specifico.predict(X_pri)[0]
+        
+        parole_pri = get_top_words(testo_pulito, vec_pri_specifico, mod_pri_specifico)
+    else:
+        priorita = "Sconosciuta"
+        parole_pri = []
     
     #aggiornamento UI
     lbl_categoria.set_text(categoria.upper())
     lbl_priorita.set_text(priorita.upper())
 
     parole_cat = get_top_words(testo_pulito, vec_categoria, model_cat)
-    parole_pri = get_top_words(testo_pulito, vec_priorita, model_pri)
+    
     #aggiorna la lista delle parole influenti con due colori distinti (in base al gruppo di appartenenza)
     container_parole.clear()
     with container_parole:
@@ -136,11 +152,25 @@ async def processa_batch(e):
         #preprocessing testuale
         df['testo_pulito'] = (df['title'].fillna('') + " " + df['body'].fillna('')).apply(clean_text)
         
+        #predizione massiva delle categorie
         X_cat = vec_categoria.transform(df['testo_pulito'])
-        X_pri = vec_priorita.transform(df['testo_pulito'])
-        
         df['Categoria_Prevista'] = model_cat.predict(X_cat)
-        df['Priorita_Prevista'] = model_pri.predict(X_pri)
+        
+        #predizione priorita gerarchica riga per riga
+        priorita_prevista = []
+        for idx, riga in df.iterrows():
+            cat_key = str(riga['Categoria_Prevista']).lower().strip()
+            testo = riga['testo_pulito']
+            
+            if cat_key in dict_vec_priorita:
+                v_spec = dict_vec_priorita[cat_key]
+                m_spec = dict_mod_priorita[cat_key]
+                prio = m_spec.predict(v_spec.transform([testo]))[0]
+            else:
+                prio = "Sconosciuta"
+            priorita_prevista.append(prio)
+            
+        df['Priorita_Prevista'] = priorita_prevista
         
         #rimuove la colonna utilizzata per l'elaborazione
         df = df.drop(columns=['testo_pulito'])
@@ -218,7 +248,7 @@ with ui.tabs().classes('w-full') as tabs:
     
 
 #panels
-with ui.tab_panels(tabs, value=tab_singolo).classes('w-full max-w-4xl mx-auto mt-8'):
+with ui.tab_panels(tabs, value=tab_singolo).classes('w-full max-w-4xl mx-auto mt-8').classes('bg-transparent shadow-none'):
     
     #tab per analisi ticket
     with ui.tab_panel(tab_singolo):
@@ -248,7 +278,7 @@ with ui.tab_panels(tabs, value=tab_singolo).classes('w-full max-w-4xl mx-auto mt
     with ui.tab_panel(tab_batch):
         with ui.card().classes('w-full p-8 items-center border-t-4').style('border-color: #2ca25f'):
             ui.icon('cloud_upload', size='4rem').style('color: #99d8c9').classes('mb-4')
-            ui.label('Carica un file CSV per processare multipli ticket contemporaneamente').classes('text-lg mb-4 text-gray-800')
+            ui.label('Carica un file CSV per processare multipli ticket contemporaneamente').classes('text-lg mb-4')
             ui.label('IMPORTANTE: Il file deve contenere almeno le colonne "title" e "body".').classes('text-sm text-red-500 mb-6')
             ui.upload(label='Trascina qui il CSV o clicca il tasto +', 
                       auto_upload=True, 

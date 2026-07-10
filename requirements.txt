@@ -1,4 +1,0 @@
-nicegui
-scikit-learn
-pandas
-joblib
