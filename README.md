@@ -13,6 +13,7 @@ Il repository è così organizzato:
 ```text
 📦 Project-Work
  ┣ 📂 dataset/            # Al suo interno sono presenti tutti i dataset generati
+ ┣ 📂 elaborato/          # Al suo interno sono presente l'elaborato in versione PDF. Nello specifico, oltre la versione consegnata, è presente una versione realizzata in Light Mode
  ┣ 📂 input/              # File utilizzati per la generazione elementare + batch di esempio per elaborazione ticket
  ┣ 📂 modelli/            # Modelli e Vettorizzatori utili al funzionamento della dashboard realizzati durante la Pipeline ML
  ┣ 🗄️01_Generazione_Dataset_Elementare.ipynb
